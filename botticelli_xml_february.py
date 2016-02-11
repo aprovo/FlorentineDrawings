@@ -214,7 +214,7 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v1 - Botticelli sample.csv', 
 
 		# subChild1 = SubElement(subChild, 'Place_URI')
 		# subChild1.text = Place_URI
-		drawingsubsubChild(Place_URI, Place_URI_name)
+		#drawingsubsubChild(Place_URI, Place_URI_name)
 
 		# subChild1 = SubElement(subChild, 'Collection_main')
 		# subChild1.text = Collection_main
@@ -419,7 +419,7 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v1 - Botticelli sample.csv', 
 #	elem.remove()
 #print(elem.text)
 # write XML file
-ElementTree(root).write("botticelli_xml_january.xml", encoding="ISO-8859-1")	
+ElementTree(root).write("botticelli_xml_february.xml", encoding="ISO-8859-1")	
 
 
 
