@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<generator_policy>
+<!--
+<namespace prefix="fd" uri="http://data.itatti.harvard.edu/florentinedrawings/"/>
+
+The URIs should have the following forms:
+
+DrawingURI:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961
+
+DrawingSideURI:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/recto
+
+Identifiers:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/BerensonNumber/570A
+
+
+--> 
+
+<generator name="DrawingURI" prefix="fd">
+<pattern>{id}</pattern>
+</generator>
+
+<generator name="DrawingSideURI" prefix="fd">
+<pattern>{id}/{side}</pattern>
+</generator>
+
+
+<generator name="Identifier" prefix="fd">
+<!-- change this name to Identifier
+This is for node URIs that have identifier numbers as the ultimate node being linked to-->
+<pattern>{id}/{type}/{identifier}</pattern>
+</generator>
+
+<generator name="DrawingSideIdentifier" prefix="fd">
+<pattern>{id}/{side}/{type}/{identifier}</pattern>
+</generator>
+
+<generator name="IntermediateURI" prefix="fd">
+	<!-- This is for intermediate node URIs that have non-identifiers as ultimate node being linked to. But for production event, which is singular (unlike image), perhaps consider a reduced patter: {id}/{type}-->
+<pattern>{id}/{type}/{number}</pattern>
+</generator>
+ 
+<generator name="DrawingSideIntermediateURI" prefix="fd">
+<pattern>{id}/{side}/{type}/{number}</pattern>
+</generator>
+
+<generator name="URI">
+ <pattern>{text}</pattern>
+</generator>
+
+	<generator name="GermanDateTime">
+		<custom generatorClass="gr.forth.GermanDate">
+			<set-arg name="bound" type="constant"></set-arg>
+			<set-arg name="text"></set-arg>
+		</custom>
+	</generator>
+	<generator name="URIorUUID">
+		<custom generatorClass="gr.forth.URIorUUID">
+			<set-arg name="text"></set-arg>
+		</custom>
+	</generator>
+<!-- create other generator policies for other classes in our model diagram-->
+
+</generator_policy>
+ 
