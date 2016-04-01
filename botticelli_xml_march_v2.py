@@ -29,14 +29,18 @@ BB_1961 = 0
 BB_1961_recto = 0
 BB_1961_verso = 0
 BB_1938 = 0
+BB_1938_recto = 0
+BB_1938_verso = 0
 BB_1903 = 0
+BB_1903_recto = 0
+BB_1903_verso = 0
 FlorentineDrawingsProject = 0
 
 
 # import the massive CSV
 
 # parse the rows and loop
-with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_25March2016.csv', 'r', encoding="UTF-8") as f:
+with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_1April2016.csv', 'r', encoding="UTF-8") as f:
 	reader = csv.reader(f)
 	next(reader)
 	for row in reader:
@@ -176,49 +180,55 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_25Marc
 		BB_1938_number_letter = row[44]
 		BB_1938_number_letter_name = "BB_1938_number_letter"
 
-		BB_1938_Artist_NoQualifier = row[45]
+		BB_1938_number_letter_NoSpace = row[45]
+		BB_1938_number_letter_NoSpace_name = "BB_1938_number_letter_NoSpace"
+
+		BB_1938_Artist_NoQualifier = row[46]
 		BB_1938_Artist_NoQualifier_name = "BB_1938_Artist_NoQualifier"
 
-		Artist_URI_1938 = row[46]
+		Artist_URI_1938 = row[47]
 		Artist_URI_1938_name = "Artist_URI_1938"
 
-		BB_1938_Qualifier = row[47]
+		BB_1938_Qualifier = row[48]
 		BB_1938_Qualifier_name = "BB_1938_Qualifier"
 
-		BB_1938_title_recto = row[48]
+		BB_1938_title_recto = row[49]
 		BB_1938_title_recto_name = "BB_1938_title_recto"
 
-		BB_1938_title_verso = row[49]
+		BB_1938_title_verso = row[50]
 		BB_1938_title_verso_name = "BB_1938_title_verso"
 
-		BB_1938_text_recto = row[50]
+		BB_1938_text_recto = row[51]
 		BB_1938_text_recto_name = "BB_1938_text_recto"
 
-		BB_1938_text_verso = row[51]
+		BB_1938_text_verso = row[52]
 		BB_1938_text_verso_name = "BB_1938_text_verso"
 
-		BB_1903_number_letter = row[52]
+		BB_1903_number_letter = row[53]
 		BB_1903_number_letter_name = "BB_1903_number_letter"
 
-		BB_1903_Artist_NoQualifier = row[53]
+		BB_1903_number_letter_NoSpace = row[54]
+		BB_1903_number_letter_NoSpace_name = "BB_1903_number_letter_NoSpace"
+
+		BB_1903_Artist_NoQualifier = row[55]
 		BB_1903_Artist_NoQualifier_name = "BB_1903_Artist_NoQualifier"
 
-		Artist_URI_1903 = row[54]
+		Artist_URI_1903 = row[56]
 		Artist_URI_1903_name = "Artist_URI_1903"
 
-		BB_1903_Qualifier = row[55]
+		BB_1903_Qualifier = row[57]
 		BB_1903_Qualifier_name = "BB_1903_Qualifier"
 
-		BB_1903_title_recto = row[56]
+		BB_1903_title_recto = row[58]
 		BB_1903_title_recto_name = "BB_1903_title_recto"
 
-		BB_1903_title_verso = row[57]
+		BB_1903_title_verso = row[59]
 		BB_1903_title_verso_name = "BB_1903_title_verso"
 
-		BB_1903_text_recto = row[58]
+		BB_1903_text_recto = row[60]
 		BB_1903_text_recto_name = "BB_1903_text_recto"
 
-		BB_1903_text_verso = row[59]
+		BB_1903_text_verso = row[61]
 		BB_1903_text_verso_name = "BB_1903_text_verso"
 
 #wrapper for entire drawing
@@ -319,42 +329,54 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_25Marc
 		subChild = SubElement (child,'BB_1938')
 		subChild.text = BB_1938
 
-		drawingsubsubChild(BB_1938_number_letter, BB_1938_number_letter_name)
+		subsubChild = SubElement (subChild, 'BB_1938_recto')
+		subsubChild.text = BB_1938_recto
 
-		drawingsubsubChild(BB_1938_Artist_NoQualifier, BB_1938_Artist_NoQualifier_name)
+		drawingsubsubsubChild(BB_1938_number_letter, BB_1938_number_letter_name)
+
+		drawingsubsubsubChild(BB_1938_Artist_NoQualifier, BB_1938_Artist_NoQualifier_name)
 		
-		drawingsubsubChild(Artist_URI_1938, Artist_URI_1938_name)
+		drawingsubsubsubChild(Artist_URI_1938, Artist_URI_1938_name)
 
-		drawingsubsubChild(BB_1938_Qualifier, BB_1938_Qualifier_name)
+		drawingsubsubsubChild(BB_1938_Qualifier, BB_1938_Qualifier_name)
 
-		drawingsubsubChild(BB_1938_title_recto, BB_1938_title_recto_name)
+		drawingsubsubsubChild(BB_1938_title_recto, BB_1938_title_recto_name)
 
-		drawingsubsubChild(BB_1938_title_verso, BB_1938_title_verso_name)
+		drawingsubsubsubChild(BB_1938_text_recto, BB_1938_text_recto_name)
 
-		drawingsubsubChild(BB_1938_text_recto, BB_1938_text_recto_name)
+		subsubChild = SubElement (subChild, 'BB_1938_verso')
+		subsubChild.text = BB_1938_verso
 
-		drawingsubsubChild(BB_1938_text_verso, BB_1938_text_verso_name)
+		drawingsubsubsubChild(BB_1938_title_verso, BB_1938_title_verso_name)
+
+		drawingsubsubsubChild(BB_1938_text_verso, BB_1938_text_verso_name)
 
 # #data from the 1903 edition
 		subChild = SubElement (child, 'BB_1903')
 		subChild.text = BB_1903
 
-		drawingsubsubChild(BB_1903_number_letter, BB_1903_number_letter_name)
+		subsubChild = SubElement (subChild, 'BB_1903_recto')
+		subsubChild.text = BB_1903_recto
 
-		drawingsubsubChild(BB_1903_Artist_NoQualifier, BB_1903_Artist_NoQualifier_name)
+		drawingsubsubsubChild(BB_1903_number_letter, BB_1903_number_letter_name)
 
-		drawingsubsubChild(Artist_URI_1903, Artist_URI_1903_name)
+		drawingsubsubsubChild(BB_1903_Artist_NoQualifier, BB_1903_Artist_NoQualifier_name)
 
-		drawingsubsubChild(BB_1903_Qualifier, BB_1903_Qualifier_name)
+		drawingsubsubsubChild(Artist_URI_1903, Artist_URI_1903_name)
 
-		drawingsubsubChild(BB_1903_title_recto, BB_1903_title_recto_name)
+		drawingsubsubsubChild(BB_1903_Qualifier, BB_1903_Qualifier_name)
 
-		drawingsubsubChild(BB_1903_title_verso, BB_1903_title_verso_name)
+		drawingsubsubsubChild(BB_1903_title_recto, BB_1903_title_recto_name)
 
-		drawingsubsubChild(BB_1903_text_recto, BB_1903_text_recto_name)
+		drawingsubsubsubChild(BB_1903_text_recto, BB_1903_text_recto_name)
 
-		drawingsubsubChild(BB_1903_text_verso, BB_1903_text_verso_name)
+		subsubChild = SubElement (subChild, 'BB_1903_verso')
+		subsubChild.text = BB_1903_verso
+
+		drawingsubsubsubChild(BB_1903_title_verso, BB_1903_title_verso_name)
+
+		drawingsubsubsubChild(BB_1903_text_verso, BB_1903_text_verso_name)
 
 
 # write XML file
-ElementTree(root).write("botticelli_xml_march_v2.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)
+ElementTree(root).write("botticelli_xml_april.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)
