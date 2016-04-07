@@ -333,6 +333,7 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_1April
 		subsubChild.text = BB_1938_recto
 
 		drawingsubsubsubChild(BB_1938_number_letter, BB_1938_number_letter_name)
+		drawingsubsubsubChild(BB_1938_number_letter_NoSpace, BB_1938_number_letter_NoSpace_name)
 
 		drawingsubsubsubChild(BB_1938_Artist_NoQualifier, BB_1938_Artist_NoQualifier_name)
 		
@@ -359,6 +360,7 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_1April
 		subsubChild.text = BB_1903_recto
 
 		drawingsubsubsubChild(BB_1903_number_letter, BB_1903_number_letter_name)
+		drawingsubsubsubChild(BB_1903_number_letter_NoSpace, BB_1903_number_letter_NoSpace_name)
 
 		drawingsubsubsubChild(BB_1903_Artist_NoQualifier, BB_1903_Artist_NoQualifier_name)
 
