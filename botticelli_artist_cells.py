@@ -1,4 +1,3 @@
-from xml.etree.ElementTree import Element, SubElement, ElementTree
 import csv
 
 BB_1903_Artist_NoQualifier_filled = 0
