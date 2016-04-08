@@ -5,7 +5,7 @@ with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'w', encoding="UTF-8") a
 
 BB_1903_Artist_NoQualifier_filled = 0
 
-ArtistCellFilled_List = []
+
 ArtistCellFilled_ListList = []
 
 with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April2016.csv', 'r', encoding="UTF-8") as f:
@@ -13,6 +13,8 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April
 	next(reader)
 	for row in reader:
 
+		###smaller list created in for loop so it resets evertime you get to a new row####
+		ArtistCellFilled_List = []
 
 
 		FlorentineDrawings_IdentifierBB1961 = row[0]
@@ -203,16 +205,19 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April
 
 		if BB_1903_Artist_NoQualifier == "" and BB_1903_number_letter != "":
 			BB_1903_Artist_NoQualifier_filled = BB_1961_Artist_NoQualifier
-			#print(FlorentineDrawings_IdentifierBB1961, "blank artist")
-			print(FlorentineDrawings_IdentifierBB1961, BB_1961_Artist_NoQualifier, BB_1903_number_letter, BB_1903_Artist_NoQualifier_filled)
-	ArtistCellFilled_List.append(FlorentineDrawings_IdentifierBB1961)
-	ArtistCellFilled_List.append(BB_1961_Artist_NoQualifier)
-	ArtistCellFilled_List.append(BB_1903_number_letter)
-	ArtistCellFilled_List.append(BB_1903_Artist_NoQualifier_filled)
-	ArtistCellFilled_ListList.append (ArtistCellFilled_List)
-print(ArtistCellFilled_ListList)	
-			# with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'a', encoding="UTF-8") as f:
-			# 	writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
-			# 	writer.writerow([FlorentineDrawings_IdentifierBB1961,BB_1961_Artist_NoQualifier,BB_1903_number_letter,BB_1903_Artist_NoQualifier_filled])
+			# print(FlorentineDrawings_IdentifierBB1961, "blank artist")
+			# print(FlorentineDrawings_IdentifierBB1961, BB_1961_Artist_NoQualifier, BB_1903_number_letter, BB_1903_Artist_NoQualifier_filled)
+			ArtistCellFilled_List.append(FlorentineDrawings_IdentifierBB1961)
+			ArtistCellFilled_List.append(BB_1961_Artist_NoQualifier)
+			ArtistCellFilled_List.append(BB_1903_number_letter)
+			ArtistCellFilled_List.append(BB_1903_Artist_NoQualifier_filled)
+			ArtistCellFilled_ListList.append (ArtistCellFilled_List)
+
+####print the larger list in the same indendation you created the list####
+print(ArtistCellFilled_ListList)
+
+# with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'w', encoding="UTF-8") as f:
+# 	writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+# 	writer.writerow([FlorentineDrawings_IdentifierBB1961,BB_1961_Artist_NoQualifier,BB_1903_number_letter,BB_1903_Artist_NoQualifier_filled])
 
 
