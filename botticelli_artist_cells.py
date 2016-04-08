@@ -206,4 +206,4 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April
 
 with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'w', encoding="UTF-8") as f:
 	writer = csv.writer(f)
-	writer.writerows(ArtistCellFilled_List) 
+	writer.writerows(ArtistCellFilled_List)
