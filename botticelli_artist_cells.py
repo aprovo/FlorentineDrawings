@@ -4,7 +4,9 @@ with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'w', encoding="UTF-8") a
 	pass
 
 BB_1903_Artist_NoQualifier_filled = 0
+
 ArtistCellFilled_List = []
+ArtistCellFilled_ListList = []
 
 with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April2016.csv', 'r', encoding="UTF-8") as f:
 	reader = csv.reader(f)
@@ -205,6 +207,8 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April
 			ArtistCellFilled_List.append(BB_1961_Artist_NoQualifier)
 			ArtistCellFilled_List.append(BB_1903_number_letter)
 			ArtistCellFilled_List.append(BB_1903_Artist_NoQualifier_filled)
+			ArtistCellFilled_ListList.append (ArtistCellFilled_List)
+			print(ArtistCellFilled_ListList)	
 			with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'a', encoding="UTF-8") as f:
 				writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 				writer.writerow([FlorentineDrawings_IdentifierBB1961,BB_1961_Artist_NoQualifier,BB_1903_number_letter,BB_1903_Artist_NoQualifier_filled])
