@@ -216,8 +216,11 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April
 ####print the larger list in the same indendation you created the list####
 print(ArtistCellFilled_ListList)
 
-# with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'w', encoding="UTF-8") as f:
-# 	writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
-# 	writer.writerow([FlorentineDrawings_IdentifierBB1961,BB_1961_Artist_NoQualifier,BB_1903_number_letter,BB_1903_Artist_NoQualifier_filled])
+
+
+with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'w', encoding="UTF-8") as f:
+	writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+	writer.writerows(ArtistCellFilled_ListList)
+	#writer.writerow([FlorentineDrawings_IdentifierBB1961,BB_1961_Artist_NoQualifier,BB_1903_number_letter,BB_1903_Artist_NoQualifier_filled])
 
 
