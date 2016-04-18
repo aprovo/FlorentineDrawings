@@ -40,7 +40,7 @@ FlorentineDrawingsProject = 0
 # import the massive CSV
 
 # parse the rows and loop
-with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_1April2016.csv', 'r', encoding="UTF-8") as f:
+with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_16April2016.csv', 'r', encoding="UTF-8") as f:
 	reader = csv.reader(f)
 	next(reader)
 	for row in reader:

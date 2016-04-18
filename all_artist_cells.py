@@ -1,12 +1,8 @@
 import csv
 
-
-#BB_1903_Artist_NoQualifier_filled = 0
-#BB_1938_Artist_NoQualifier_filled = 0
-
 ArtistCellFilled_ListList = []
 
-with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April2016.csv', 'r', encoding="UTF-8") as f:
+with open('FlorentineDrawings_SpreadsheetsCombined_v3 - FlorentineDrawings_CombinedSpreadsheets.csv', 'r', encoding="UTF-8") as f:
 	reader = csv.reader(f)
 	next(reader)
 	for row in reader:
@@ -54,8 +50,8 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April
 		# Inventory_number_correction = row[12]
 		# Inventory_number_correction_name = "Inventory_number_correction"
 		
-		# BB_1961_number_letter = row[13]
-		# BB_1961_number_letter_name = "BB_1961_number_letter"
+		BB_1961_number_letter = row[13]
+		BB_1961_number_letter_name = "BB_1961_number_letter"
 
 		# BB_1961_number_letter_NoSpace = row[14]
 		# BB_1961_number_letter_NoSpace_name = "BB_1961_number_letter_NoSpace"
@@ -201,31 +197,48 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_6April
 		# BB_1903_text_verso = row[61]
 		# BB_1903_text_verso_name = "BB_1903_text_verso"
 
+		if BB_1961_Artist_NoQualifier != "" and BB_1961_number_letter != "":
+			BB_1961_Artist_NoQualifier = BB_1961_Artist_NoQualifier
+
+
 		if BB_1938_Artist_NoQualifier == "" and BB_1938_number_letter != "":
 			BB_1938_Artist_NoQualifier_filled = BB_1961_Artist_NoQualifier
+			
 
+			ArtistCellFilled_List.append(FlorentineDrawings_IdentifierBB1961)
+			ArtistCellFilled_List.append(BB_1961_Artist_NoQualifier)
+			ArtistCellFilled_List.append(BB_1961_number_letter)
+			ArtistCellFilled_List.append(BB_1938_number_letter)
+			ArtistCellFilled_List.append(BB_1938_Artist_NoQualifier_filled)
+
+		elif BB_1938_Artist_NoQualifier != "" and BB_1938_number_letter != "" :
+			BB_1938_Artist_NoQualifier_filled = BB_1938_Artist_NoQualifier
+			
 			ArtistCellFilled_List.append(FlorentineDrawings_IdentifierBB1961)
 			ArtistCellFilled_List.append(BB_1961_Artist_NoQualifier)
 			ArtistCellFilled_List.append(BB_1938_number_letter)
 			ArtistCellFilled_List.append(BB_1938_Artist_NoQualifier_filled)
-			#ArtistCellFilled_ListList.append (ArtistCellFilled_List)
-
+		
 		if BB_1903_Artist_NoQualifier == "" and BB_1903_number_letter != "":
-			BB_1903_Artist_NoQualifier_filled = BB_1961_Artist_NoQualifier
-			# print(FlorentineDrawings_IdentifierBB1961, "blank artist")
-			# print(FlorentineDrawings_IdentifierBB1961, BB_1961_Artist_NoQualifier, BB_1903_number_letter, BB_1903_Artist_NoQualifier_filled)
-			#ArtistCellFilled_List.append(FlorentineDrawings_IdentifierBB1961)
-			#ArtistCellFilled_List.append(BB_1961_Artist_NoQualifier)
+			BB_1903_Artist_NoQualifier_filled = BB_1938_Artist_NoQualifier_filled
+			
 			ArtistCellFilled_List.append(BB_1903_number_letter)
 			ArtistCellFilled_List.append(BB_1903_Artist_NoQualifier_filled)
-			ArtistCellFilled_ListList.append (ArtistCellFilled_List)
+			ArtistCellFilled_ListList.append(ArtistCellFilled_List)
+
+		elif BB_1903_Artist_NoQualifier != "" and BB_1903_number_letter != "":
+			BB_1903_Artist_NoQualifier_filled = BB_1903_Artist_NoQualifier
+			
+			ArtistCellFilled_List.append(BB_1903_number_letter)
+			ArtistCellFilled_List.append(BB_1903_Artist_NoQualifier_filled)
+			ArtistCellFilled_ListList.append(ArtistCellFilled_List)
 
 ####print the larger list in the same indendation you created the list####
-print(ArtistCellFilled_ListList)
+#print(ArtistCellFilled_ListList)
+		print(FlorentineDrawings_IdentifierBB1961, BB_1961_Artist_NoQualifier, BB_1938_number_letter, BB_1938_Artist_NoQualifier_filled, BB_1903_number_letter, BB_1903_Artist_NoQualifier_filled)
 
 
-
-with open('FlorentineDrawings_1903ArtistsFilledIn.csv', 'w', encoding="UTF-8") as f:
+with open('FlorentineDrawings_AllArtistsFilledIn.csv', 'w', encoding="UTF-8") as f:
 	writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 	writer.writerows(ArtistCellFilled_ListList)
 	#writer.writerow([FlorentineDrawings_IdentifierBB1961,BB_1961_Artist_NoQualifier,BB_1903_number_letter,BB_1903_Artist_NoQualifier_filled])
