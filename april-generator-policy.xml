@@ -8,11 +8,29 @@ The URIs should have the following forms:
 DrawingURI:
 http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961
 
+Identifier:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/BerensonNumber/570A
+
+IntermediateURI:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/image/1
+
+IntermediateURI2:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/production
+
 DrawingSideURI:
 http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/recto
 
-Identifiers:
-http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/BerensonNumber/570A
+DrawingSideIdentifier:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/recto/figure_number/348
+
+DrawingSideIntermediateURI:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/recto/title/1
+
+DrawingSideIntermediateURI2:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/recto/modification
+
+URIorUUID:
+the URI, which is in a "text" field.
 
 
 --> 
@@ -21,19 +39,11 @@ http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/BerensonN
 <pattern>{id}</pattern>
 </generator>
 
-<generator name="DrawingSideURI" prefix="fd">
-<pattern>{id}/{side}</pattern>
-</generator>
-
 
 <generator name="Identifier" prefix="fd">
 <!-- change this name to Identifier
 This is for node URIs that have identifier numbers as the ultimate node being linked to-->
 <pattern>{id}/{type}/{identifier}</pattern>
-</generator>
-
-<generator name="DrawingSideIdentifier" prefix="fd">
-<pattern>{id}/{side}/{type}/{identifier}</pattern>
 </generator>
 
 <generator name="IntermediateURI" prefix="fd">
@@ -45,14 +55,25 @@ This is for node URIs that have identifier numbers as the ultimate node being li
 	<!-- This is for intermediate node URIs that have non-identifiers as ultimate node being linked to. Unlike the other IntermediateURI generator, this one does not include a "counter" number-->
 <pattern>{id}/{type}</pattern>
 </generator>
- 
+
+
+<generator name="DrawingSideURI" prefix="fd">
+<pattern>{id}/{side}</pattern>
+</generator>
+
+<generator name="DrawingSideIdentifier" prefix="fd">
+<pattern>{id}/{side}/{type}/{identifier}</pattern>
+</generator>
+
+
 <generator name="DrawingSideIntermediateURI" prefix="fd">
 <pattern>{id}/{side}/{type}/{number}</pattern>
 </generator>
 
-<generator name="URI">
- <pattern>{text}</pattern>
+<generator name="DrawingSideIntermediateURI2" prefix="fd">
+<pattern>{id}/{side}/{type}</pattern>
 </generator>
+
 
 <generator name="URIorUUID">
 <custom generatorClass="gr.forth.URIorUUID">

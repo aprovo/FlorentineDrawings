@@ -263,29 +263,29 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_16Apri
 		drawingsubsubChild(BB_1961_technique_recto_1, BB_1961_technique_recto_1_name)
 		drawingsubsubChild(BB_1961_technique_recto_1_URI, BB_1961_technique_recto_1_URI_name)
 
-		drawingsubsubChild(BB_1961_technique_recto_2, BB_1961_technique_recto_2_name)
-		drawingsubsubChild(BB_1961_technique_recto_2_URI, BB_1961_technique_recto_2_URI_name)
+		drawingsubsubChild(BB_1961_technique_recto_2, BB_1961_technique_recto_1_name)
+		drawingsubsubChild(BB_1961_technique_recto_2_URI, BB_1961_technique_recto_1_URI_name)
 
-		drawingsubsubChild(BB_1961_technique_recto_3, BB_1961_technique_recto_3_name)
-		drawingsubsubChild(BB_1961_technique_recto_3_URI, BB_1961_technique_recto_3_URI_name)
+		drawingsubsubChild(BB_1961_technique_recto_3, BB_1961_technique_recto_1_name)
+		drawingsubsubChild(BB_1961_technique_recto_3_URI, BB_1961_technique_recto_1_URI_name)
 
-		drawingsubsubChild(BB_1961_technique_recto_4, BB_1961_technique_recto_4_name)
-		drawingsubsubChild(BB_1961_technique_recto_4_URI, BB_1961_technique_recto_4_URI_name)
+		drawingsubsubChild(BB_1961_technique_recto_4, BB_1961_technique_recto_1_name)
+		drawingsubsubChild(BB_1961_technique_recto_4_URI, BB_1961_technique_recto_1_URI_name)
 
-		drawingsubsubChild(BB_1961_technique_recto_5, BB_1961_technique_recto_5_name)
-		drawingsubsubChild(BB_1961_technique_recto_5_URI, BB_1961_technique_recto_5_URI_name)
+		drawingsubsubChild(BB_1961_technique_recto_5, BB_1961_technique_recto_1_name)
+		drawingsubsubChild(BB_1961_technique_recto_5_URI, BB_1961_technique_recto_1_URI_name)
 
 		drawingsubsubChild(BB_1961_technique_verso_1, BB_1961_technique_verso_1_name)
 		drawingsubsubChild(BB_1961_technique_verso_1_URI, BB_1961_technique_verso_1_URI_name)
 
-		drawingsubsubChild(BB_1961_technique_verso_2, BB_1961_technique_verso_2_name)
-		drawingsubsubChild(BB_1961_technique_verso_2_URI, BB_1961_technique_verso_2_URI_name)
+		drawingsubsubChild(BB_1961_technique_verso_2, BB_1961_technique_verso_1_name)
+		drawingsubsubChild(BB_1961_technique_verso_2_URI, BB_1961_technique_verso_1_URI_name)
 
-		drawingsubsubChild(BB_1961_technique_verso_3, BB_1961_technique_verso_3_name)
-		drawingsubsubChild(BB_1961_technique_verso_3_URI, BB_1961_technique_verso_3_URI_name)
+		drawingsubsubChild(BB_1961_technique_verso_3, BB_1961_technique_verso_1_name)
+		drawingsubsubChild(BB_1961_technique_verso_3_URI, BB_1961_technique_verso_1_URI_name)
 
-		drawingsubsubChild(BB_1961_technique_verso_4, BB_1961_technique_verso_4_name)
-		drawingsubsubChild(BB_1961_technique_verso_4_URI, BB_1961_technique_verso_4_URI_name)
+		drawingsubsubChild(BB_1961_technique_verso_4, BB_1961_technique_verso_1_name)
+		drawingsubsubChild(BB_1961_technique_verso_4_URI, BB_1961_technique_verso_1_URI_name)
 
 		#drawingsubsubChild(MuseumObject_URI, MuseumObject_URI_name)
 
@@ -381,4 +381,4 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v3 - Botticelli_Sample_16Apri
 
 
 # write XML file
-ElementTree(root).write("botticelli_xml_april.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)
+ElementTree(root).write("botticelli_xml_april20.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)

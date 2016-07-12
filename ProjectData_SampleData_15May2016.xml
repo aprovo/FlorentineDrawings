@@ -1,0 +1,964 @@
+<?xml version='1.0' encoding='utf-8'?>
+<berenson>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000017-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Paris</City>
+			<City_URI>http://sws.geonames.org/2988507</City_URI>
+			<Country>France</Country>
+			<Country_URI>http://sws.geonames.org/3017382</Country_URI>
+			<Collection_main>Musée du Louvre</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/130895627/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>4</BB_1961_Inventory_number>
+				<BB_1961_number_letter>17</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>17</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Vergine Annunciata</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>17</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>17</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Virgin for Annunciation</BB_1938_title_recto>
+				<BB_1938_text_recto>Early</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>17</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>17</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000002-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Berlin</City>
+			<City_URI>http://sws.geonames.org/2950159</City_URI>
+			<Country>Germany</Country>
+			<Country_URI>http://sws.geonames.org/2921044</Country_URI>
+			<Collection_main>Kupferstichkabinett</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/132000764/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>ink</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>2309</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Due nudi di donna e due di fanciulli </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>sei putti in diversi atteggiamenti</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Two nude women and two nude </BB_1938_title_recto>
+				<BB_1938_text_recto>Coarser than Fra Bartolommeo, and done with a more stubby pen</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Six putti in various attitudes children</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000003-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Berlin</City>
+			<City_URI>http://sws.geonames.org/2950159</City_URI>
+			<Country>Germany</Country>
+			<Country_URI>http://sws.geonames.org/2921044</Country_URI>
+			<Collection_main>Kupferstichkabinett</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/132000764/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>5037</BB_1961_Inventory_number>
+				<BB_1961_number_letter>3</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>3</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Figura per la &quot;Visitazione&quot; degli Uffizi (n. 1586)</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>3</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>3</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Figure for the Uffizi Visitation</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>3</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>3</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000004-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Berlin</City>
+			<City_URI>http://sws.geonames.org/2950159</City_URI>
+			<Country>Germany</Country>
+			<Country_URI>http://sws.geonames.org/2921044</Country_URI>
+			<Collection_main>Kupferstichkabinett</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/132000764/</Collection_URI_main>
+			<BB_1961_technique_recto_1>metalpoint</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://getty_metalpoint</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>5140</BB_1961_Inventory_number>
+				<BB_1961_number_letter>4</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>4</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Studi per una Madonna con Bambino</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>4</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>4</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Sheet of studies for Madonna and Child</BB_1938_title_recto>
+				<BB_1938_text_recto>The best in these materials</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>4</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>4</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000001-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Amsterdam</City>
+			<City_URI>http://sws.geonames.org/2759794</City_URI>
+			<Country>Holland</Country>
+			<Country_URI>http://sws.geonames.org/2750405</Country_URI>
+			<Collection_main>Fodor Museum</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/263460775/</Collection_URI_main>
+			<BB_1961_technique_recto_1>metalpoint</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://getty_metalpoint</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>872</BB_1961_Inventory_number>
+				<BB_1961_number_letter>1</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>1</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Madonna con due Angeli e studi per fanciulli</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>1</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>1</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Madonna with two angels, and studies of children</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>1</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>1</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000005-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>177.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>5</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>5</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Madonna con due Angeli e studi per fanciulli</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>5</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>5</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Madonna and Child</BB_1938_title_recto>
+				<BB_1938_text_recto>Ascribed to Fra Bartolomeo, but the coarse features and the fumbling stroke make it more probable that this drawing is Albertinelli's. The late Mr. Charles Loeser, in the Uffizi publication just referred to, would ascribe this little sketch to Piero di Cosimo. Much could be adduced in favour of this attribution as the likeness in the hatching and stroke between this sketch and others by Piero is undeniable. It can, however, be accounted for by Albertinelli's having been taught drawingin Piero's studio. The round head and deep-set eyes of the Child, so much like my 1852, could be explained in the same way. But, above all, I do not remember any composition of Piero's so close in pattern and contrapposto to both Fra Bartolomeo and Raphael. It looks like a drawing done in 1505 or 1508</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>5</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>5</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000006-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>308.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>6</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>6</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Annunciazione</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>6</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>6</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Annunciation</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>6</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>6</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000007-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>metalpoint</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://getty_metalpoint</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>512.E</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>418</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>7</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>7</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Angelo annunciante</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>7</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>7</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Angel for Annunciation in Cathedral at Volterra</BB_1938_title_recto>
+				<BB_1938_text_recto>Ascribed to Credi The folds in this sketch as in some of Albertinelli's paintings (notably the Volterra picture or the Pitti Nativity, n. 365) would tend to prove that Albertinelli was not at the start the pupil of Credi, but of &quot;Tommaso&quot;. If, however, &quot;Tommaso&quot; was only a phase of Piero di Cosimo, as seems more and more likely, then he would have been Piero di cosimo's pupil all along</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>7</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>7</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000008-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>ink</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>546.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>8</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>8</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Monaco con libro in mano </BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Monaco in gloria</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>8</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>8</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Monk with book in hand</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>8</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>8</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000009-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>547.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>9</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>9</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Vergine Annunciata</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>9</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>9</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Madonna for an Annunciation</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>9</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>9</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000010-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>548.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>10</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>10</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Studi per Angeli che salgono gradini</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>10</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>10</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Studies of angels walking up steps</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>10</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>10</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>000275A-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>549.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>275 A</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>275A</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Bartolommeo,  Fra</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500115575</Artist_URI_1961>
+				<BB_1961_title_recto>Due putti e studio di veste</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>275 A</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>275A</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Bartolommeo,  Fra</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500115575</Artist_URI_1938>
+				<BB_1938_title_recto>Two putti and study of garment</BB_1938_title_recto>
+				<BB_1938_text_recto>The garment may have been intended for a St. Michael in the Last Judgement. Compare with my 463.A, which I also used to attribute to Albertinelli</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>11</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>11</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000012-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>550.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>12</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>12</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Cristo in gloria con la Madonna e San Giovanni</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>12</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>12</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Christ in glory with Madonna and St. John</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>12</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>12</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000013-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>556.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>13</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>13</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Trinità con santi e cherubini</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>13</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>13</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Trinity with cherubs and saints</BB_1938_title_recto>
+				<BB_1938_text_recto>Kindred in subject but scarcely a study for the Trinity at the Accademia (n. 8660)</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>13</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>13</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000014-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>metalpoint</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://getty_metalpoint</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>560.E</BB_1961_Inventory_number>
+				<BB_1961_plate_number>XLVIII</BB_1961_plate_number>
+				<BB_1961_number_letter>14</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>14</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Angelo con una croce ed una lancia </BB_1961_title_recto>
+				<BB_1961_text_recto>Studio per l'affresco del &quot;Giudizio Universale,&quot; già a Santa Maria Nuova ed ora nel Museo di San Marco, commesso a Fra bartolomeo nel 1498 e compiuto dall'Albertinelli nel 1501;</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Angelo in atto di suonare una tromba</BB_1961_title_verso>
+			</BB_1961_verso>
+			<BB_1961_text_verso>Studio per lo stesso affresco</BB_1961_text_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>14</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>14</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Angel with cross and lance </BB_1938_title_recto>
+				<BB_1938_text_recto>Study for the fresco of the Last Judgment </BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Angel blowing trumpet</BB_1938_title_verso>
+				<BB_1938_text_verso>Study for same</BB_1938_text_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>14</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>14</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000015-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>metalpoint</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://getty_metalpoint</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>561.E</BB_1961_Inventory_number>
+				<BB_1961_number_letter>15</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>15</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Due Angeli suonatori di trombe</BB_1961_title_recto>
+				<BB_1961_text_recto>Studio per l'affresco del &quot;Giudizio Universale&quot;, già a Santa Maria Nuova ed ora nel Museo di San Marco, commesso a Fra bartolomeo nel 1498 e compiuto dall'Albertinelli nel 1501</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>15</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>15</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Two angels sounding trumpets</BB_1938_title_recto>
+				<BB_1938_text_recto>Study for same</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>15</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>15</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>000015A-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>oil</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015050</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>19197</BB_1961_Inventory_number>
+				<BB_1961_number_letter>15 A</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>15A</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Schizzo per un frate visto di fronte</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto/>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto/>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000018-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Rome</City>
+			<City_URI>http://sws.geonames.org/3169070</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Istituto Nazionale per la grafica</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/144897089/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>130506</BB_1961_Inventory_number>
+				<BB_1961_number_letter>18</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>18</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Studio per una Natività</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>18</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>18</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Study for Nativity</BB_1938_title_recto>
+				<BB_1938_text_recto>Most characteristic</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>18</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>18</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Ascribed to Bartolommeo, but more probably Albertinelli's</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0001006-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Rome</City>
+			<City_URI>http://sws.geonames.org/3169070</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Istituto Nazionale per la grafica</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/144897089/</Collection_URI_main>
+			<BB_1961_technique_recto_1>watercolor</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015045</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>metalpoint</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://getty_metalpoint</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>130483</BB_1961_Inventory_number>
+				<BB_1961_number_letter>1006</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>1006</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Granacci, Francesco</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500022051</Artist_URI_1961>
+				<BB_1961_title_recto>Bambino Gesù per una Natività </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Giovane donna ammantata</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>1006</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>1006</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Granacci, Francesco</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500022051</Artist_URI_1938>
+				<BB_1938_title_recto>Study for Child in Nativity </BB_1938_title_recto>
+				<BB_1938_text_recto>Child lying in attitude close to that of the Child of the Nativity formerly belonging to M. Richtenberger </BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Young woman draped</BB_1938_title_verso>
+				<BB_1938_text_verso>unmistakably Granacci's. The verso is listed under my 19 in First Edition</BB_1938_text_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>19</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>19</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0000020-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Rome</City>
+			<City_URI>http://sws.geonames.org/3169070</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Istituto Nazionale per la grafica</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/144897089/</Collection_URI_main>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>ink</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>130507</BB_1961_Inventory_number>
+				<BB_1961_number_letter>20</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>20</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Albertinelli, Mariotto</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500005936</Artist_URI_1961>
+				<BB_1961_title_recto>Vecchio monaco genuflesso </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Paese</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>20</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>20</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Albertinelli, Mariotto</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500005936</Artist_URI_1938>
+				<BB_1938_title_recto>Kneeling elderly monk </BB_1938_title_recto>
+				<BB_1938_text_recto>Good</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Landscape</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>20</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>20</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Albertinelli, Mariotto</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500005936</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0001489-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<Inventory_number_correction>1854,0513.1</Inventory_number_correction>
+			<City>London</City>
+			<City_URI>http://sws.geonames.org/2643743</City_URI>
+			<Country>UK</Country>
+			<Country_URI>http://sws.geonames.org/2635167</Country_URI>
+			<Collection_main>British Museum</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/134857252/</Collection_URI_main>
+			<Object_repository_URI>http://collection.britishmuseum.org/id/object/461635</Object_repository_URI>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>1854.5.13.1</BB_1961_Inventory_number>
+				<BB_1961_number_letter>1489</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>1489</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Buonarroti, Michelangelo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500010654</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo atletico disteso con le braccia ripiegate dietro il dorso, che si contrae nello sforzo di liberarsi, premendo forte la gamba sinistra contro la coscia</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>1489</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>1489</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Buonarroti, Michelangelo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500010654</Artist_URI_1938>
+				<BB_1938_title_recto>Athletic nude with arms tied behind struggling to get free, but bent nearly double with the effort, the left leg pressed hard under the thigh</BB_1938_title_recto>
+				<BB_1938_text_recto>This rapid but masterly sketch, which has all the essential qualities of Michelangelo's feeling and touch, must have been meant for the figure of a slave - perhaps for the one we now see in the Victory of the Palazzo Vecchio - intended for the Tomb of Julius. The attitude suggests certain of the decorative nudes in the Sixtine Ceiling. This, among other considerations, leads up to place it between the completion of the frescoes and the commencement of the plans for the façade of S. Lorenzo. But the way of indicating the contours with curving lines which cross one another is singular, and exactly paralleled in only one other drawing, and that of the period of the Last Judgement, namely a leaf in the British Museum (my 1508), with a study among others perhaps for a scene in Dante's Purgatorio. This consideration need, however, not disturb us in assigning the sketch to an earlier date. Michelangelo's technique and stroke change little in the course of lifetime. The only &quot;fool-proof&quot; indication of date that I venture to name is that in no drawing earlier than the Cavalieri series does Michelangelo attempt to model with an effect of rubbing.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>1489</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>1489</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Buonarroti, Michelangelo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500010654</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+</berenson>

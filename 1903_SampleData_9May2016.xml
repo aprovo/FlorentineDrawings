@@ -1,0 +1,3428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<berenson>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002095-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6596.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2095</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2095</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo seduto sopra un masso, il torso visto quasi di fianco, il braccio destro appoggiato a un'asta, il sinistro sopra un libro, la testa vista di dietro</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2095</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2095</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth seated on block, his torso seen almost sideways, with right arm stretched out and resting on staff, his left on a book, the head seen from behind</BB_1938_title_recto>
+				<BB_1938_text_recto>The modelling is truly splendid, and the effect of colour almost unsurpassable. This also may have been done in connection with Poggio a Cajano.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2095</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2095</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002096-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6597.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2096</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2096</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo seduto sulla base di un albero, al quale si appoggia con la mano destra mentre con la sinistra si tiene una ciotola alla bocca</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2096</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2096</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth lightly seated on branch, on which he leans with right hand, while with left he holds bowl to his mouth</BB_1938_title_recto>
+				<BB_1938_text_recto>This delightful nude is of the quality and style of the drawings for Poggio a Cajano, and probably was intended for a Baptist in the Wilderness.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2096</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2096</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002097-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6598.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2097</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2097</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo con gli occhi stravolti, seduto con le gambe divaricate, che accenna a sinistra</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2097</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2097</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Male nude with mad eyes, lightly seated with legs wide apart, pointing to left. Probably for Poggio a Cajano</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2097</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2097</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002098-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>black chalk</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6599.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>910</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2098</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2098</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo virile seduto per terra, con il ginocchio destro alzato e la gamba sinistra flessa sul terreno, sul quale egli si appoggia con la mano sinistra facendo solecchio agli occhi con la destra in direzione capovolta, vago accenno del busto della stessa figura. Il nudo a sanguigna, l'accenno del busto a carboncino </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Scarabocchio grezzo di un torso</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2098</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2098</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude squatting on ground, with right leg bent at knee and raised, the left folded back on ground, left hand resting on ground, right shading eyes </BB_1938_title_recto>
+				<BB_1938_text_recto>Both these are variations upon my 202, and like that were intended for Poggio a Cajano, probably for the shepherd on the ground to the left</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Rough scrawl of torso</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2098</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2098</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002099-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6600.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2099</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2099</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo di lunghezza favolosa visto quasi da tergo, col dorso della mano destra appoggiato sopra un tavolo</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2099</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2099</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth of fabulous length seen from behind, with back of left hand resting on table, and right hand held out</BB_1938_title_recto>
+				<BB_1938_text_recto>Latish.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2099</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2099</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002100-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6601.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2100</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2100</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo seduto in profilo a destra su tre scalini con la mano sinistra tesa (studio per il medesimo San Giovanni che ritroviamo su BB n. 1978) un altro giovane seduto. Ambedue disegnati a carboncino sopra diversi scarabocchi a sanguigna </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Due nudi visti di fianco seduti sui calcagni</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2100</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2100</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth seated sideways to right with left hand held out, a study for the same composition for a St. John that we find in my 1978. Another seated youth. Both drawn in black chalk over various scrawls in red chalk </BB_1938_title_recto>
+				<BB_1938_text_recto>All fairly early</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Two nudes seen sideways seated on their heels</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2100</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2100</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002101-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>wash</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011051</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6602.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>976</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2101</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2101</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Cinque nudi virili, michelangioleschi e al tempo stesso antichi, stanno in piedi presso un fuoco: uno tira fuori qualcosa da un sacco tenuto da un altro, come se tirasse a sorte, mentre tiene un libro nella mano destra varie figure gesticolanti nello sfondo</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2101</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2101</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Highly finished design for a composition. Five Michelangelesque and at once antique nudes stand by a fire. One takes something out of a bag held by another as if to draw lots, while in his right hand he holds a book. Several gesticulating figures in background</BB_1938_title_recto>
+				<BB_1938_text_recto>It is for iconographers to say what this may mean. As a composition it is beautiful, and exhales delightful suggestions. The date may be about 1535 or later. A comparison with Pollajuolo's nudes helps us to measure the distance travelled by the art of the Renaissance in about 70 years.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2101</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2101</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002102-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6603.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>887</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2102</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2102</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo virile seduto di lato verso destra e vaghi accenni di un altro nudo </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Giovane nudo in profilo a destra che si appoggia a un parapetto, mostrando gran parte delle spalle. Di qualità incantevole</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2102</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2102</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Youthful nude seated sideways to right, and vaguer nude </BB_1938_title_recto>
+				<BB_1938_text_recto>As Clapp (Life, fig. 6) points out, the sketch on the recto is for a woman seated on the steps to left in the Annunziata Visitation. A most interesting somewhat Raphaelesque version of it used to be in the Geiger Collection.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Youthful nude of most charming quality standing sideways, showing most of back. His hands rest on parapet</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2102</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2102</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Both were probably for Poggio a Cajano.</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002103-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011727</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6604.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2103</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2103</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo virile seduto con la testa e le gambe in profilo a sinistra, su un cubo al quale si appoggia con la mano sinistra, mentre addita con l'altra mano lo spettatore </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Nudo femminile visto da tergo</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2103</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2103</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude figure sitting on block pressing it down with left hand while pointing to right, although facing to left </BB_1938_title_recto>
+				<BB_1938_text_recto>The attitude recalls Michelangelo's decorative nudes on the Sixtine Ceiling. The quality is excellent. Perhaps it is Pontormo's best sketch in black chalk. As it is more mannered than the sketches that can positively be connected with the Poggio a Cajano fresco, it may have been intended for the lunette that was not executed.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Female nude seen from behind</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2103</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2103</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002104-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6605.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2104</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2104</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo disteso sul fianco sinistro visto da tergo</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2104</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2104</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Reclining nude seen from behind</BB_1938_title_recto>
+				<BB_1938_text_recto>Late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2104</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2104</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002105-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6606.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2105</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2105</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Grasso nudo maschile visto da tergo col braccio destro piegato attorno alla testa, ed il sinistro flesso al gomito e portato all'altezza delle spalle</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2105</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2105</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Fat male nude seen from behind with right arm curved around head, and left doubled up from elbow</BB_1938_title_recto>
+				<BB_1938_text_recto>Michelangelesque in motive, and late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2105</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2105</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002106-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6607.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2106</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2106</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo di brutte proporzioni in profilo a sinistra</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2106</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2106</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude of bad proportions seen sideways</BB_1938_title_recto>
+				<BB_1938_text_recto>Late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2106</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2106</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002107-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6608.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2107</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2107</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo che ne sorregge un altro</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2107</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2107</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude supporting another. The latter recalls my 2066 and 2069, and this drawing must have served same purpose as those</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2107</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2107</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002108-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6609.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2108</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2108</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Cristo seduto, in una mandorla di nudi, con le mani aperte a benedire: in basso, l'Eterno che fa uscire Eva dalla costola di Adamo dormiente</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 and 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2108</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2108</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Christ seated with hands held out in midst of various nudes, all caricatures of Michelangelo. Below the Christ an old man, representing the Eternal, is calling to life Eve from under the sleeping Adam</BB_1938_title_recto>
+				<BB_1938_text_recto>Certainly for S. Lorenzo. There is a touch of Blake in all this.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2108</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2108</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002109-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6610.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2109</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2109</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo che sembra scendere da una roccia, colla gamba sinistra allungata e la destra di scorcio, il braccio destro ricadente lungo il fianco e il sinistro proteso</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2109</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2109</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth seen as if climbing down from rock with left leg stretched out and right foreshortened, right arm falling to side and left stretched out</BB_1938_title_recto>
+				<BB_1938_text_recto>According to Clapp (Dessins, p. 184) about 1520.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2109</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2109</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>This was suggested by the dead Christ in Andrea's famous &quot;Pietà&quot; now in the Pitti and doubtless was intended for a similar subject.</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002110-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6611.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2110</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2110</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Studio per un Cristo Morto </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian except the reference to BB n. 2486 &quot;da me data a Sebastiano del Piombo&quot;</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Piccolo schizzo di un nudo maschile nella stessa posa del recto, schizzo separato della testa e delle braccia per la stessa figura e schizzo per le gambe e l'addome di un torso maschile</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2110</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2110</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Study for Dead Christ </BB_1938_title_recto>
+				<BB_1938_text_recto>At first sight it might seem as if Pontormo while drawing this interesting sketch had in mind the famous Warwick design for a Pietà (now in the British Museum, my 2486) ascribed to Michelangelo or indeed that master's original jotting for this design. The purpose of the action in the two figures is almost identical, although Pontormo betrays that he does not quite understand what he is doing. If he had, perhaps he would not have drawn back the left leg. This is so uncalled for that I cannot help thinking that what he really had in mind was not the Warwick Pietà or its predecessors, but the attitude and action of Michelangelo's - singular adaptation! - Leda.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Small sketch of male nude in same attitude as on recto, one for head and arms and another for legs and abdomen of male torso</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2110</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2110</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938 and added: Now if really Pontormo drew this sketch in connection with the “Pietà” in the Accademia (with the dead Christ in which it has considerable resemblance), then we should have to grant, what we know was not the fact, that he had never delved deep into the most precious secrets of form and action. In the painting there remains of the motive the silhouette only. The chest, instead of being arched so as to exhibit all the play of bone, muscle and tendon, has become a box. All the ambrosial relaxation has left it, and given place to mere motionlessness, and the fact of death</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002111-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6612.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2111</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2111</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo appoggiato col braccio sinistro a una stampella</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2111</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2111</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth leaning on crutch which he holds under his left elbow. A delightful early study for Poggio a Cajano perhaps, or indeed for a St. Christopher of the same period</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2111</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2111</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002112-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6613.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2112</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2112</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane uomo seduto a gambe aperte con un drappo intorno alla vita e un rotolo nella mano destra, la sinistra alzata con gesto declamatorio e lo sguardo volto a sinistra con espressione ispirata </BB_1961_title_recto>
+				<BB_1961_text_recto>[1957: Quando il Clapp propose di collegare questo schizzo con uno dei Patriarchi, ora distrutti, nella volta della Cappella Capponi in Santa Felicita (1526-28), io non fui d'accordo con lui, perché mi sembrava di data più giovanile; ma oggi gli do ragione e sono grato a Miss Janet Cox per aver dimostrato in Burlington Magazine, Gennaio 1956, p. 17 seg.,  fig. 17, che si tratta proprio di uno studio per uno di quei Patriarchi.];</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Nudo in profilo e studi per la parte inferiore di un nudo virile</BB_1961_title_verso>
+			</BB_1961_verso>
+			<BB_1961_text_verso>Same as 1938, in Italian</BB_1961_text_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2112</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2112</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Admirable study for draped figure seated on ground with legs wide apart, the right hand with scroll in it resting on parapet, left held up as if reciting. He looks to left with an inspired expression. The attitude recalls my 2089, and like that, this sketch may have been done for Poggio a Cajano but for the lunette that was never executed </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Nudes and legs, slight</BB_1938_title_verso>
+				<BB_1938_text_verso>Clapp (Life, fig. 98) wants to connect these with S. Felicita but they seem to me earlier.</BB_1938_text_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2112</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2112</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002113-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6614.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2113</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2113</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Testa di giovane inclinata a sinistra </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Cristo morto</BB_1961_title_verso>
+			</BB_1961_verso>
+			<BB_1961_text_verso>Same as 1938 Title, in Italian</BB_1961_text_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2113</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2113</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Head of youth looking down a little to left </BB_1938_title_recto>
+				<BB_1938_text_recto>Loose</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Study for Dead Christ, probably for the Certosa Pietà and done under Dürer's influence</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2113</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2113</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002114-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6615.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2114</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2114</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo dalla testa calva appoggiato con ambedue le mani ad un'asta studio di una mano </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Tre schizzi per braccia, spalle e fianchi</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2114</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2114</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>A bald-headed nude leaning with both hands on a staff. Also a hand </BB_1938_title_recto>
+				<BB_1938_text_recto>Late Michelangelesque studies probably for the Adam labouring the earth (see Clapp, Dessins, pp. 187,188).</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Various sketches for arms, shoulder, and hips</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2114</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2114</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002115-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6616.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2115</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2115</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Ragazzo nudo in corsa, dall'espressione intontita una testa piccolo schizzo spiritoso di un ratto </BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Ragazzo nudo in profilo a sinistra</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2115</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2115</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude idiot boy. A head. Small and spirited sketch of a rape </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Nude boy seen sideways</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2115</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2115</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002116-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6618.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2116</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2116</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Due studi di una gamba sinistra e nudo visto da tergo </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Due studi di panneggio di una figura vista da tergo</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2116</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2116</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Studies of leg and a nude, seen from behind </BB_1938_title_recto>
+				<BB_1938_text_recto>Rather early.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Two studies of drapery of figure seen from back</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2116</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2116</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002117-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6619.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>935</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2117</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2117</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo virile seduto in profilo a destra</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 and 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2117</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2117</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Study for Dead Christ in the Pietà at S. Felicita. Mannered, although not without qualities</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2117</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2117</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002118-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6620.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2118</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2118</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Esile nudo femminile visto da tergo</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2118</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2118</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Slender female nude seen from behind</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2118</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2118</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002119-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6622.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2119</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2119</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Composizione di nove figure per un Cristo Deposto</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 and 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2119</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2119</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Rapid sketch for Pietà consisting of some nine figures. Suggested by Andrea's Pietà now in the Pitti Gallery</BB_1938_title_recto>
+				<BB_1938_text_recto>Excellent.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2119</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2119</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002120-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6623.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2120</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2120</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo supino, nella posa di una rana che salta</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2120</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2120</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Late Michelangelesque nude in attitude of frog jumping backwards</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2120</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2120</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002121-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6625.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2121</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2121</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Piccolo schizzo incantevole per un San Cristoforo</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2121</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2121</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Charming small sketch for St. Christopher</BB_1938_title_recto>
+				<BB_1938_text_recto>A much larger study for the same exists in the Corsini Gallery at Rome (see my 2366B).</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2121</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2121</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002122-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6627.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2122</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2122</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Due avvincenti teste femminili, l'una più anziana ed ansiosa, l'altra più leggiarda</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2122</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2122</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Two charming female heads, one elder and more serious, the other more winning. For the holy women seen over the Virgin's right arm in the Pietà at S. Felicita</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2122</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2122</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002123-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6630.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2123</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2123</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovinetto grazioso, effeminato, sdraiato per terra sul fianco sinistro col dorso allo spettatore ma volgendo ad esso il viso di sotto al braccio destro alzato</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2123</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2123</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Pretty, effeminate nude youth reclining on left arm, his right held up</BB_1938_title_recto>
+				<BB_1938_text_recto>Late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2123</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2123</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002124-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6631.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2124</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2124</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo che corre</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2124</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2124</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth running</BB_1938_title_recto>
+				<BB_1938_text_recto>Late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2124</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2124</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002125-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>metalpoint</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://getty_metalpoint</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>metalpoint</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://getty_metalpoint</BB_1961_technique_verso_1_URI>
+			<BB_1961_technique_verso_1>red chalk</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6632.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>913</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2125</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2125</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovinetto vestito semplicemente che siede per terra appoggiandosi col braccio destro a un rialzo e solleva la mano sinistra verso la nostra sinistra, mentre alza gli occhi verso la nostra destra due deboli studi di avambraccio perpendicolarmente ai piedi del giovinetto, schizzo quasi indecifrabile di una figura seduta </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian and added: [1938: Quello a punta d'argento sul recto forse per il pastore all'estrema sinistra nella lunetta del 1520-21.]</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Giovane addormentato, disteso sopra un parapetto</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2125</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2125</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Youth simply dressed, reclining on right arm, his left held up. He looks to right. In black chalk, faint scrawl hard to decipher of squatting figure, probably for shepherd on extreme left at Poggio a Cajano </BB_1938_title_recto>
+				<BB_1938_text_recto>Both were probably drawn in connection with Poggio a Cajano</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Youth stretched out asleep on a parapet</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2125</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2125</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002126-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6634.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2126</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2126</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Parte inferiore di un torso piegato violentemente all'indietro</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2126</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2126</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Lower part of torso violently bent back</BB_1938_title_recto>
+				<BB_1938_text_recto>Late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2126</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2126</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002127-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6635.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2127</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2127</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo maschile in piedi presso una roccia e nudo più piccolo seduto</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian and added: Specialmente il disegno del torso, libero e forte.</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2127</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2127</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Male nude, chiefly torso, free and powerful. Seated, smaller nude</BB_1938_title_recto>
+				<BB_1938_text_recto>Rather early.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2127</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2127</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002128-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6636.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2128</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2128</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Studi di spalle</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2128</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2128</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Studies of shoulders</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2128</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2128</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002129-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6637.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2129</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2129</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo giovanile acefalo in corsa e studio di lombi</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2129</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2129</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Headless, youthful nude running</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2129</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2129</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002130-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>red chalk</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6638.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2130</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2130</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Torso di un nudo maschile giacente, abbozzato, ma forte </BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Due nudi a contorno, il primo in piedi con la mano sulla testa del secondo rannicchiato sotto di lui</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2130</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2130</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Torso of reclining male nude, sketchy but strong </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Two nudes in outline</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2130</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2130</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002132-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6640.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2132</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2132</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Torso maschile nudo </BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Giovane nudo che corre verso destra</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2132</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2132</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude male torso perhaps for S. Lorenzo </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Younger nude seen sideways</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2132</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2132</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002133-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6641.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2133</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2133</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo disteso, visto da tergo e studio di un ginocchio</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2133</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2133</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Reclining nude seen from behind, and a knee</BB_1938_title_recto>
+				<BB_1938_text_recto>Late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2133</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2133</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002134-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6642.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2134</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2134</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Testa femminile, giovanile, graziosa ed attraente, sopra un torso appena accennato vaghe indicazioni di una testa più grande</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2134</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2134</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Youthful female head, winning and pretty, on a torso barely indicated. More vaguely, a larger head</BB_1938_title_recto>
+				<BB_1938_text_recto>Possibly for the Virgin in the S. Felicita Deposition and at all events of that period.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2134</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2134</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002135-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6643.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2135</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2135</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Due studi di gambe, in direzione opposta </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Rapido schizzo di un nudo prono</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2135</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2135</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Two studies of legs, one in inverse direction to other </BB_1938_title_recto>
+				<BB_1938_text_recto>Clapp (Dessins, p. 201) has identified the verso as being for the man who helps Christ to bear the cross in the Certosa fresco representing the Way to Calvary.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Rapid sketch of stooping nude</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2135</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2135</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002136-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6644.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2136</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2136</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Ragazzo visto dal basso, che regge un cartiglio con ambedue le mani al di sopra della testa parte di un torso visto da tergo graziosa figura femminile iscritta in un pennacchio</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 and 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2136</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2136</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Boy seen from below, holding with both hands a scroll above his head. Study probably for some ceiling decoration. Part of torso seen from back. And in black chalk a narrow spandrel with pretty female figure therein</BB_1938_title_recto>
+				<BB_1938_text_recto>The date can scarcely be later than 1525 According to Clapp (Dessins, p. 201) later and possibly for Castello.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2136</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2136</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002137-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6645.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2137</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2137</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane nudo che beve da una ciotola</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2137</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2137</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth drinking out of bowl</BB_1938_title_recto>
+				<BB_1938_text_recto>Hastier version of my 2096, and like that for a youthful Baptist.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2137</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2137</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002138-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6646.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2138</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2138</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Ragazzo nudo seduto su un parapetto al quale si appoggia con la mano sinistra, con la gamba destra penzoloni e il braccio destro alzato a destra di un finestrone circolare vari pentimenti nella posizione delle sue gambe</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 and 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2138</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2138</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Study for nude boy, meant to stride exultingly on parapet to right of window at Poggio a Cajano, but not executed in precisely this way</BB_1938_title_recto>
+				<BB_1938_text_recto>This putto differs but little in pose from the one in my 2017B and is even more spirited.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2138</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2138</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002139-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_verso_1>ink</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_verso_1_URI>
+			<BB_1961_technique_verso_1>bister</BB_1961_technique_verso_1>
+			<BB_1961_technique_verso_1_URI>http://vocab.getty.edu/aat/300013351</BB_1961_technique_verso_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6647.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2139</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2139</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Torso di un giovane uomo in profilo a destra, con la mano sollevata fino al mento </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Testa femminile</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2139</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2139</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Torso of youth in profile to right, with hand held up to chin. Perhaps for one of the Evangelists in the Capponi Chapel at S. Felicita </BB_1938_title_recto>
+				<BB_1938_text_recto>Done in the most extraordinary technique with bistre on a ground rubbed with black chalk, resulting in a freedom and force that are not easily surpassed in Renaissance draughtsmanship. Indeed we are reminded of the Japanese and certain recent French men.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Female head, possibly for the Madonna in the Pietà at S. Felicita</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2139</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2139</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002140-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6648.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2140</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2140</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Figura acefala drappeggiata, seduta, con le mani giunte </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Leggero schizzo di figura in corsa e prospettiva lineare di due porte; nell'angolo superiore destro, schizzo di una porta che ci ricorda quella nell'affresco della Certosa che raffigura &quot;Cristo nell'Orto&quot;</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2140</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2140</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Headless seated figure, with clasped hands, draped </BB_1938_title_recto>
+				<BB_1938_text_recto>The folds are of purely Northern character, and here we have witness to Pontormo's attempt at adopting not only the ideas but the manner of Dürer. Doubtless for some figure in the Certosa frescoes.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Slight sketch of figure running and perspective outline of two gates; in right upper corner sketch of gate reminding us of the one in the Certosa fresco representing Christ in the garden</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2140</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2140</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002141-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6649.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2141</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2141</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Grazioso giovinetto nudo e studio di una coscia di tre quarti verso destra </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian and added: [1957: Luisa Vertova ha giustamente rilevato che il giovinetto sul recto è uno studio preparatorio per la &quot;Madonna con San Giovannino&quot; o &quot;Carità&quot; (Uffizi n. 4347), databile appunto in quegli anni.]</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Studio più vago di un nudo acefalo, seduto di fronte e studi di cosce</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2141</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2141</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude pretty youth sitting sideways </BB_1938_title_recto>
+				<BB_1938_text_recto>Soon after S. Felicita.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Vaguer study of nude seated facing us</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2141</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2141</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002142-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>ink</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300015012</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6650.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2142</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2142</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo giacente sul fianco destro, visto di spalle, ma con la testa di fronte in un atteggiamento che somiglia a qualcuna delle figure inferiori del &quot;Giudizio Universale&quot; di Michelangelo una altra testa ritoccata a penna</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2142</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2142</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Reclining nude seen sideways, but with head facing, in attitude resembling some of lower figures in Michelangelo's Last Judgement. Another head touched up with pen</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2142</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2142</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002143-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>wash</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011051</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6651.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2143</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2143</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Ragazzo a cavalcioni di un muricciolo, in atto di tirare su qualcosa con la mano sinistra</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2143</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2143</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Dashing study of boy straddling parapet while pulling up something with left hand</BB_1938_title_recto>
+				<BB_1938_text_recto>This motive betrays, what otherwise we might not have suspected, that the idea of these putti for Poggio a Cajano came to Pontormo from Michelangelo's nude lads in the Sixtine Ceiling.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2143</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2143</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002144-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6652.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2144</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2144</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Un giovinetto nudo, con la testa in profilo a destra, sta in piedi guardando un oggetto che tiene nella mano destra </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Studio più rapido e probabilmente più tardo del recto, di un giovane dall'aspetto selvaggio in atto di trattenere con ambo le mani vicino alla testa un panneggio investito dal vento</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2144</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2144</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude youth with head in profile to right stands looking at object in right hand </BB_1938_title_recto>
+				<BB_1938_text_recto>Very powerful contours, as if undercut in bronze, yet of marvellous effect as colour. Perhaps done after Michelangelo's bozzetto for the David of c. 1517.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>More rapid and probably later study of wild-looking youth fluttering behind him a drapery which he holds with both hands close to his head</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2144</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2144</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002145-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>wash</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011051</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6653.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2145</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2145</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovane uomo drappeggiato che avanza verso destra</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2145</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2145</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Sketch for angel in fresco of the Annunciation at S. Felicita</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2145</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2145</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002146-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6654.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2146</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2146</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Torso di uomo seduto in profilo a destra col braccio che gli nasconde il volto</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2146</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2146</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Torso turned to left with arm hiding face</BB_1938_title_recto>
+				<BB_1938_text_recto>Late.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2146</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2146</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002147-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6656.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2147</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2147</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo maschile seduto verso destra visto da tergo </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Frate visto di fronte fino ai ginocchi con le braccia pendenti ai lati</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2147</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2147</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Male nude seated sideways seen from behind </BB_1938_title_recto>
+				<BB_1938_text_recto>Clapp (Life, figs. 82,84, and Dessins, p. 209) has proved that both these sketches are for the Supper at Emmaus.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Friar standing and facing front with both arms hanging down</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2147</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2147</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002148-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6657.F </BB_1961_Inventory_number>
+				<BB_1961_number_letter>2148</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2148</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo virile in profilo a destra ma in atto di volgerci la nuca, con una spada nella mano destra e il braccio sinistro teso davanti a sé nell'angolo superiore sinistro studio separato della sua spalla</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2148</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2148</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude in profile, but head turned away. He has a sword in his right hand, and his left arm is held out</BB_1938_title_recto>
+				<BB_1938_text_recto>Clapp (Dessins, p. 210) has connected this with the Nailing on the Cross, planned for the Certosa.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2148</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2148</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>This study may have been intended for an executioner in a Judgment of Solomon.</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002149-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6658.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2149</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2149</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Due nudi semigenuflessi, ciascuno con la testa nella mano e lo sguardo sognante</BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2149</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2149</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Two seated Nudes, each with his head in his hand looking up as if in reverie</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2149</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2149</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002150-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6659.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2150</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2150</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Torso e braccio di figura volta in basso a sinistra </BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Nudo virile in violento contrapposto</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2150</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2150</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Torso and arm of figure looking down to left </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Nude figure in violent contrapposto</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2150</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2150</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002151-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6660.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>903</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2151</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2151</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Schizzo rapido ma magistrale di un nudo maschile adagiato all'indietro, col braccio destro alzato che nasconde a metà il volto disegnato parzialmente al disopra di questo, altro schizzo eloquente di un nudo in posa analoga, ma visto più di fronte scarabocchi di una spalla e di un fanciullo </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Progetto per la lunetta di Poggio a Caiano: due figure giovanili (le stesse studiate negli schizzi sul recto) si appoggiano al vertice della finestra rotonda reggendo le insegne; in mezzo a loro uno stemma; ai lati inferiori della finestra, vaga indicazione di due figure; al di fuori di questo schema, rapido schizzo di due putti avvinghiati dorso contro dorso, e studio molto più deciso di due putti gagliardamente avvinti, in piedi sopra un piedistallo iscritto Jacopo da Pontormo</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2151</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2151</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Rapid bust masterly sketch of male nude leaning backward, with right arm held up and half hiding face. Partly drawn over this, an equally telling sketch of a nude seen more form the front. Also scrawl of a shoulder, and of a child. All for Poggio a Cajano </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Mapping out of the lunette at Poggio a Cajano. Youthful figures, for which the two on the front were sketches, lean against the top of the round window holding ensigns. Between them a panoply. Near the window below, vague indication of a figure on either side. The outside this scheme, rapid sketch of the two putti back to back, and more firm, indeed very decisive study of two putti clinging sturdily one to the other, and standing on a pedestal. Both these groups of putti are imitations of those Michelangelo placed on the pedestals in his Sixtine frescoes. The mapping out in black chalk, the figures in red chalk</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2151</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2151</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002152-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011727</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6661.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2152</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2152</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Ragazzo nudo a cavalcioni di un ramo di lauro</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2152</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2152</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Putto striding laurel bush, earlier and more spirited version of my 2017A, and like that done in connection with the frescoes at Poggio a Cajano</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2152</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2152</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002153-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011727</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6662.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>898</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2153</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2153</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Angioletto reggi-cortina col braccio sinistro alzato a destra ripetizione di una parte della stessa figura </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Nudo maschile seduto verso sinistro su un ripiano al quale si appoggia con la mano sinistra e la destra tesa in fuori; in basso, perpendicolarmente al nudo, testa di fanciullo</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2153</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2153</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Masterly, vigorous sketch for the child angel on our right in the S. Michele altar-piece. Repetition of part of same figure </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Seated male nude, with right hand pressing down on bench, and left held out. Child's head. Done perhaps for same work before it took final shape</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2153</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2153</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002154-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6664.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2154</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2154</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>San Girolamo nudo inginocchiato in penitenza</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2154</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2154</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude St. Jerome kneeling in penitence. Poorer version of my 1968</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2154</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2154</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002155-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>wash</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011051</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6665.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>927</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2155</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2155</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo virile sproporzionalmente allungato nella posa del Cristo in atto di essere inchiodato sulla croce (a carboncino acquarellato con biacca e rosa chiaro) in direzione rovesciata un busto dalla testa più giovanile, col braccio destro alzato tracciato rapidamente, senza dubbio per lo stesso scopo (a sanguigna) nell'angolo inferiore sinistro, rifinito studio dal vero per la sola testa del Cristo, incollato dal Pontormo stesso (a sanguigna)</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian and added: Vedi anche BB n. 2159 recto.</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2155</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2155</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Study in black chalk and wash for disproportionately long figure of Christ in attitude of being nailed to cross. Also in reverse direction a more youthful head with right arm stretched up, no doubt for same purpose. The bust and right arm are drawn in red chalk roughly, and the head alone more elaborately, and from the model</BB_1938_title_recto>
+				<BB_1938_text_recto>This sketch certainly served for the fine composition representing the Nailing to the Cross for which my 2159A gives us the design.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2155</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2155</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002156-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6666.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2156</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2156</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Busto di giovane nudo dalla faccia lunga e dagli occhi fissi </BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Panneggio per un torso col braccio sinistro sull'anca</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2156</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2156</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude bust of youth with long face and staring round eyes </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Drapery for torso with left arm akimbo</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2156</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2156</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>002156A-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6667.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2156 A</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2156A</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Ritratto a mezza figura di un ragazzo col corpo volto a sinistra ma col viso girato verso lo spettatore a destra, schizzo più piccolo per l'azione della testa, capo grazioso e delicato come un fiore </BB_1961_title_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Nudo virile e studio di una sottana che lascia scoperta una gamba destra penzolante</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2156 A</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2156A</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Study for portrait of boy seen from side but turning face towards us. Smaller sketch for the action of head, very graceful and flowerlike </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Studies for nude and for cast of drapery</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>1996</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>1996</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002157-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6668.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2157</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2157</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Testa di uomo sui trent'anni o più, con la barba corta ed il volto consunto, espressivo, in profilo a sinistra </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Sommario profilo a sinistra di uomo giovanile</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2157</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2157</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Head of a man of thirty or more, with short beard, and worn, expressive face in profile to left </BB_1938_title_recto>
+				<BB_1938_text_recto>Both these profiles have an almost Holbeinesque precision.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>More summary profile to left of youngish man</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2157</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2157</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002158-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6669.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2158</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2158</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Quattro putti in atteggiamenti diversi, due dei quali visibili solo in parte </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Putto seduto per terra verso destra, con la gamba destra piegata al ginocchio e la gamba sinistra distesa e studi separati delle sue membra</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2158</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2158</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Four putti in various attitudes, two of them only partly visible </BB_1938_title_recto>
+				<BB_1938_text_recto>These sketches may have served for the charming putto in the foreground of Pontormo's Annunziata fresco. They were all done probably from the model which was rapidly sketched in various attitudes more and more approaching the one in the painting. The quality of the drawing, so singularly angular and yet so fluent, has never been surpassed by our artist. Clapp (see Dessins, p. 219) connects them with the drawings for Poggio with which indeed they have more in common. It is interesting to note that the attitudes remain nearer to Andrea while the technique has already left him behind.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Putto seated on ground, with right hand on it and left leg stretched out</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2158</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2158</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002159-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6670.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>925</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2159</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2159</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo virile addormentato e studio separato della sua testa </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Studio più rapido per la stessa figura del recto</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2159</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2159</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Fine study of sleeping figure and of head of same, for Dead Christ for which my 2174, 2175 verso, 2175A also served </BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>More rapid study of same figure</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2159</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2159</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>002159A-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6671.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>928</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2159 A</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2159A</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Inchiodamento di Cristo sulla Croce</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 and 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2159 A</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2159A</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Arched composition for fresco, the lower right corner of which overhangs door. It represents, in many small figures, Christ being nailed to the cross, and is interesting as an arrangement, full of freakishness and originality. It is squared for enlarging and was planned for the Certosa but never executed</BB_1938_title_recto>
+				<BB_1938_text_recto>See in connection with it my 1972A, 2148, 2159, 2171, 2174, 2175A, 2177.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>1997</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>1997</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>002159B-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6672.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2159 B</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2159B</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Numerosi piccoli nudi per una composizione raffigurante il Ratto delle Sabine</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2159 B</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2159B</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Numerous small nudes for composition representing the rape of the Sabines. Very close to Andrea, and quite early</BB_1938_title_recto>
+				<BB_1938_text_recto>It seems to me now (1934) nearer to Michelangelo, particularly the two straggling groups to our right.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>1998</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>1998</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Very close to Andrea, and quite early</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>002159C-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6673.F</BB_1961_Inventory_number>
+				<BB_1961_figure_number_recto>914915</BB_1961_figure_number_recto>
+				<BB_1961_number_letter>2159 C</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2159C</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Giovinetta seduta verso sinistra con le gambe allungate sul terreno, a destra di una finestra </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 and 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Donna semisdraiata che si appoggia al gomito sinistro con le gambe allungate sul terreno</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2159 C</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2159C</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Study for reclining shepherdess, the one next to the window on our right in the lunette at Poggio a Cajano </BB_1938_title_recto>
+				<BB_1938_text_recto>Both are free and powerful as draughtsmanship. This one seems a more elaborated version of my 2020 verso.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Study for reclining shepherdess to right of the one for which the last is study</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>1999</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>1999</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>002159D-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6674.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2159 D</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2159D</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Mezza figura di nudo giovanile dai capelli ricciuti, appoggiato sul gomito destro e volto leggermente verso sinistra</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938 Title, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2159 D</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2159D</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Half-length figure of curly-headed youthful nude leaning on right elbow and looking out a little to left. Perhaps study for one of the Evangelists in the Capponi Chapel at S. Felicita</BB_1938_title_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2000</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2000</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002160-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>black chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080058</BB_1961_technique_recto_1_URI>
+			<BB_1961_technique_recto_1>chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300011727</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6675.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2160</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2160</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>A sinistra un cavaliere, a destra una specie di vecchia Sibilla che lo addita a un giovane, nel mezzo del foglio un groviglio di figure, quelle in primo piano stese a terra bocconi, quelle nello sfondo simili a lancieri a cavallo</BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian and added: Per il cavaliere vedi anche BB n. 2205 e BB n. 2023, per le figure bocconi vedi anche BB n. 2021 verso. [1958: Sia questo, sia gli studi di cavaliere su BB n. 2205, si riferiscono allo sfondo dell'&quot;Epifania&quot; dipinta dal Pontormo intorno al 1517-18 e ora a Pitti.]</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso/>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2160</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2160</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Old sibyl pointing out to a knight a youthful cavalier on horseback</BB_1938_title_recto>
+				<BB_1938_text_recto>The rider occurs in the Martyrdom of St. Maurice, and the entire sketch may have been made while Pontormo was preparing for enlarging that picture. The study is of remarkable pictorial effect, energetic and yet graceful giving us a slight foretaste of Greco.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso/>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2160</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2160</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002161-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6676.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2161</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2161</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo virile seduto su uno sgabello verso destra, con la gamba destra ritratta, ed un'asta nella mano destra </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Esile nudo virile seduto, appoggiato come a ripiano di tavola e due rapidi schizzi di un busto di vecchio</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2161</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2161</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Elderly nude seated, looking to right, with right leg drawn back, holding staff in right hand </BB_1938_title_recto>
+				<BB_1938_text_recto>The purpose of this sheet is unknown to me. Early.</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Slender nude lightly seated, and two rapid sketches of old man's head</BB_1938_title_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2161</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2161</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>Same as 1938 and added: Possibly it may have been done in connection with Poggio a Cajano.</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+	<drawing_record>
+		<FlorentineDrawingsProject>
+			<FlorentineDrawings_IdentifierBB1961>0002162-Berenson</FlorentineDrawings_IdentifierBB1961>
+			<City>Florence</City>
+			<City_URI>http://sws.geonames.org/3176959</City_URI>
+			<Country>Italy</Country>
+			<Country_URI>http://sws.geonames.org/3175395</Country_URI>
+			<Collection_main>Gabinetto disegni e stampe degli Uffizi</Collection_main>
+			<Collection_URI_main>http://viaf.org/viaf/131952597/</Collection_URI_main>
+			<BB_1961_technique_recto_1>red chalk</BB_1961_technique_recto_1>
+			<BB_1961_technique_recto_1_URI>http://vocab.getty.edu/aat/300080064</BB_1961_technique_recto_1_URI>
+		</FlorentineDrawingsProject>
+		<BB_1961>
+			<BB_1961_recto>
+				<BB_1961_Inventory_number>6677.F</BB_1961_Inventory_number>
+				<BB_1961_number_letter>2162</BB_1961_number_letter>
+				<BB_1961_number_letter_NoSpace>2162</BB_1961_number_letter_NoSpace>
+				<BB_1961_Artist_NoQualifier>Pontormo</BB_1961_Artist_NoQualifier>
+				<Artist_URI_1961>http://vocab.getty.edu/ulan/500008780</Artist_URI_1961>
+				<BB_1961_title_recto>Nudo inginocchiato a sinistra in atteggiamento di preghiera, che regge un'asta nella mano destra in basso lo stesso modello disteso </BB_1961_title_recto>
+				<BB_1961_text_recto>Same as 1938, in Italian</BB_1961_text_recto>
+			</BB_1961_recto>
+			<BB_1961_verso>
+				<BB_1961_title_verso>Tre giovani nudi distesi, uno dei quali accenna con la mano sinistra</BB_1961_title_verso>
+			</BB_1961_verso>
+		</BB_1961>
+		<BB_1938>
+			<BB_1938_recto>
+				<BB_1938_number_letter>2162</BB_1938_number_letter>
+				<BB_1938_number_letter_NoSpace>2162</BB_1938_number_letter_NoSpace>
+				<BB_1938_Artist_NoQualifier>Pontormo</BB_1938_Artist_NoQualifier>
+				<Artist_URI_1938>http://vocab.getty.edu/ulan/500008780</Artist_URI_1938>
+				<BB_1938_title_recto>Nude kneeling to left in attitude of prayer, holding staff in closed right hand, his left drawn back and below the same model reclining </BB_1938_title_recto>
+				<BB_1938_text_recto>Very likely as Clapp suggests (Dessins, p. 227) for an Adoration of the Shepherds</BB_1938_text_recto>
+			</BB_1938_recto>
+			<BB_1938_verso>
+				<BB_1938_title_verso>Three youthful nudes reclining, one of theme pointing with his left hand</BB_1938_title_verso>
+				<BB_1938_text_verso>Excellent. Several years later than the recto, the principal figure distinctly &quot;Michelangelo-Raphaelesque&quot;.</BB_1938_text_verso>
+			</BB_1938_verso>
+		</BB_1938>
+		<BB_1903>
+			<BB_1903_recto>
+				<BB_1903_number_letter>2162</BB_1903_number_letter>
+				<BB_1903_number_letter_NoSpace>2162</BB_1903_number_letter_NoSpace>
+				<BB_1903_Artist_NoQualifier>Pontormo</BB_1903_Artist_NoQualifier>
+				<Artist_URI_1903>http://vocab.getty.edu/ulan/500008780</Artist_URI_1903>
+				<BB_1903_text_recto>This is  perhaps a study for a &quot;Pietà&quot;, the dead Christ for which we have in n. 2174.</BB_1903_text_recto>
+			</BB_1903_recto>
+			<BB_1903_verso/>
+		</BB_1903>
+	</drawing_record>
+</berenson>

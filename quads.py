@@ -1,6 +1,10 @@
 #this script converts triples into quads by adding the graph uri to the end of the triple.
+quads=[]
 
-with open ('BotticelliTriples1961_23March2016.nt') as graph:
+with open ('project_triples.rdf') as graph:
 	for triple in graph:
-		triple=triple.replace(".\n", "<http://data.itatti.harvard.edu/florentinedrawings/berenson1961> .\n")
-		print(triple)
+		quad=triple.replace(".\n", "<http://data.itatti.harvard.edu/florentinedrawings/project2016> .\n")
+		quads.append(quad + "\n")
+
+with open ('project2016_quads.nt', 'w') as quads_file:
+	quads_file.writelines(quads)
