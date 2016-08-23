@@ -4,7 +4,7 @@ quads_1961=[]
 quads_1938=[]
 quads_1903=[]
 
-with open ('18july_project_triples.nt') as graph_project:
+with open ('august8_project_triples.nt') as graph_project:
 	for triple_project in graph_project:
 		quad_project=triple_project.replace(".\n", "<http://data.itatti.harvard.edu/florentinedrawings/project2016> .\n")
 		quads_project.append(quad_project + "\n")
@@ -24,7 +24,7 @@ with open ('18july_1903_triples.nt') as graph_1903:
 		quad_1903=triple_1903.replace(".\n", "<http://data.itatti.harvard.edu/florentinedrawings/berenson1903> .\n")
 		quads_1903.append(quad_1903 + "\n")
 
-with open ('project_18July2016_quads.nt', 'w') as quads_project_file:
+with open ('august8_project_quads.nt', 'w') as quads_project_file:
 	quads_project_file.writelines(quads_project)
 
 with open ('1961_18July2016_quads.nt', 'w') as quads_1961_file:
