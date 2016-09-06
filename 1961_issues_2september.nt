@@ -1,0 +1,48 @@
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Seppellimento di Cristo, con veduta di Firenze nello sfondo"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/berenson_catalogue_number/494AFol14> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Taccuino di ventiquattro schizzi, quasi tutti a penna e per soggetti religiosi."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/ulan/500115575> <http://www.w3.org/2000/01/rdf-schema#label> "Fra Bartolommeo"@en .
+<http://vocab.getty.edu/ulan/500115575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://vocab.getty.edu/aat/300078817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300386003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115575> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/berenson_catalogue_number/494A> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/berenson_catalogue_number/494A> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/berenson_catalogue_number/494A> <http://www.w3.org/2000/01/rdf-schema#label> "494 A" .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/berenson_catalogue_number/494A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115575> .
+<http://data.itatti.harvard.edu/florentinedrawings/000494A-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Taccuino di ventiquattro schizzi, quasi tutti a penna e per soggetti religiosi. Recto: Seppellimento di Cristo, con veduta di Firenze nello sfondo"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/berenson_catalogue_number/494AFol14> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/berenson_catalogue_number/494AFol14> <http://www.w3.org/2000/01/rdf-schema#label> "494 A (Fol.14)" .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/berenson_catalogue_number/494AFol14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nell'edizione del 1938 ne ho citati solo dieci, che mi parevano i pi\u00F9 interessanti. Per amore di completezza ne do qui l'intero elenco."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/494AFol14-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://vocab.getty.edu/aat/300010292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+

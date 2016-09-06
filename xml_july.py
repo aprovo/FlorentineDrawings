@@ -40,7 +40,7 @@ FlorentineDrawingsProject = 0
 # import the massive CSV
 
 # parse the rows and loop
-with open('FlorentineDrawings_SpreadsheetsCombined_v5 - FlorentineDrawings_CombinedSpreadsheets_18July2016.csv', 'r', encoding="UTF-8") as f:
+with open('FlorentineDrawings_SpreadsheetsCombined_v5 - Issues and Corrections Transform 2 Sept 2016.csv', 'r', encoding="UTF-8") as f:
 	reader = csv.reader(f)
 	next(reader)
 	for row in reader:
@@ -405,4 +405,4 @@ with open('FlorentineDrawings_SpreadsheetsCombined_v5 - FlorentineDrawings_Combi
 
 
 # write XML file
-ElementTree(root).write("xml_18july.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)
+ElementTree(root).write("xml_issues_2september.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)

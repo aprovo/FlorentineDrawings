@@ -88,4 +88,4 @@ with open('FlorentineDrawings_1903_PlateNumbers - Sheet1.csv', 'r', encoding="UT
 
 
 # write XML file
-ElementTree(root).write("xml_1903platenumbers_22August.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)
+ElementTree(root).write("xml_1903platenumbers_30August.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None)

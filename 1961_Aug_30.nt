@@ -1,0 +1,739 @@
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/berenson_catalogue_number/1703a> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/berenson_catalogue_number/1703a> <http://www.w3.org/2000/01/rdf-schema#label> "1703 a" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/berenson_catalogue_number/1703a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "In alto, lungo fregio (su due pagine) con battaglia di cavalieri nudi; in basso visione frontale e laterale dell'arco di Orange."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://vocab.getty.edu/ulan/500000246> <http://www.w3.org/2000/01/rdf-schema#label> "Benozzo Gozzoli"@en .
+<http://vocab.getty.edu/ulan/500000246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Cinque schizzi montati insieme dal Vasari: Musa appoggiata ad un'erma e un'altra figura femminile drappeggiata vista da tergo"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500000246> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Due Scarabocchi di nudi seduti"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/berenson_catalogue_number/1702d> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/berenson_catalogue_number/1703b> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/berenson_catalogue_number/599G-1> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "In alto, lungo fregio (su due pagine) con battaglia di cavalieri nudi; in basso visione frontale e laterale dell'arco di Orange."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/berenson_catalogue_number/2472fol29> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/berenson_catalogue_number/2472fol29> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 29" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/berenson_catalogue_number/2472fol29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Cinque schizzi montati insieme dal Vasari: Angelo o Vittoria"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Sono tutti contemporanei agli affreschi della cappella Strozzi in Santa Maria Novella a Firenze (1502). Per un altro disegno su questo lato del foglio vedi BB n. 760 verso."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/berenson_catalogue_number/433F> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/berenson_catalogue_number/2472fol28> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Leggeri schizzi"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Giovane re; dietro a lui parti di figure nude ed una figura avvolta in un panneggio roteante"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "L'Arco di Costantino a Roma e quattro medaglioni in rilievo."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/berenson_catalogue_number/2472fol24> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/berenson_catalogue_number/1702c> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/berenson_catalogue_number/2472> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/berenson_catalogue_number/1275_4> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation> <http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/image/2> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/image/2> <http://www.cidoc-crm.org/cidoc-crm/P149_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/figure_number/207> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/image/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E38_Image> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Cinque schizzi montati insieme dal Vasari: Santa che prega"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/berenson_catalogue_number/1276A> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/berenson_catalogue_number/1276A> <http://www.w3.org/2000/01/rdf-schema#label> "1276 A" .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/berenson_catalogue_number/1276A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/berenson_catalogue_number/760> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/berenson_catalogue_number/1703c> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/berenson_catalogue_number/1703c> <http://www.w3.org/2000/01/rdf-schema#label> "1703 c" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/berenson_catalogue_number/1703c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Vedi BB nn. 760 recto, 1276, 1276 A e 1276 B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/berenson_catalogue_number/2469A> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/berenson_catalogue_number/2469A> <http://www.w3.org/2000/01/rdf-schema#label> "2469 A" .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/berenson_catalogue_number/2469A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Tre fregi: re barbari catturati da duci romani; satiri e centauri."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Quarantuno schizzi dal vero di alberi e di paesi"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://vocab.getty.edu/ulan/500023184> <http://www.w3.org/2000/01/rdf-schema#label> "Giuliano Giamberti da San Gallo"@en .
+<http://vocab.getty.edu/ulan/500023184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Evidentemente ispirati, se non copiati, da bassorilievi romani."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Cinque piccoli schizzi di nudi seduti (quello all'estrema sinistra simile ad Abia dormiente nella lunetta di \"Roboam e Abia\") iscritto \"di quindici di sectebre\" nell'angolo superiore sinistro dalla mano di Michelangelo"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/berenson_catalogue_number/2472fol46> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/berenson_catalogue_number/2472fol46> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 46" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/berenson_catalogue_number/2472fol46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as BB 1702 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/berenson_catalogue_number/2472fol47> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://vocab.getty.edu/ulan/500008780> <http://www.w3.org/2000/01/rdf-schema#label> "Pontormo"@en .
+<http://vocab.getty.edu/ulan/500008780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/berenson_catalogue_number/1702-1703> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/berenson_catalogue_number/1702-1703> <http://www.w3.org/2000/01/rdf-schema#label> "1702-1703" .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/berenson_catalogue_number/1702-1703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/berenson_catalogue_number/2284Ato2325> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Vedi BB nn. 760 recto, 1276, 1276 A e 1276 B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/berenson_catalogue_number/2472fol11> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/berenson_catalogue_number/1275_2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/berenson_catalogue_number/1275_2> <http://www.w3.org/2000/01/rdf-schema#label> "1275 (2)" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/berenson_catalogue_number/1275_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "L'Arco di Traiano a Benevento e quattro processioni di figure toga te (su due pagine)."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/berenson_catalogue_number/1702-1703> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/berenson_catalogue_number/1703d> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500008780> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/berenson_catalogue_number/1702b> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/berenson_catalogue_number/1702b> <http://www.w3.org/2000/01/rdf-schema#label> "1702 b" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/berenson_catalogue_number/1702b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Otto figurette sedute in vari atteggiamenti su gradini appoggiati ad archi di lunette iscritto al centro della pagina \"Dagli bere\""@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Cinque schizzi montati insieme dal Vasari: putto che corre"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Otto pagine di un taccuino quadrato"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/berenson_catalogue_number/2284Ato2325> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/berenson_catalogue_number/2284Ato2325> <http://www.w3.org/2000/01/rdf-schema#label> "2284A to 2325" .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/berenson_catalogue_number/2284Ato2325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/berenson_catalogue_number/599G-1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/berenson_catalogue_number/599G-1> <http://www.w3.org/2000/01/rdf-schema#label> "599 G-1" .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/berenson_catalogue_number/599G-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Vedi BB nn. 760 recto, 1276, 1276 A e 1276 B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/berenson_catalogue_number/1275_3> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/berenson_catalogue_number/1275_3> <http://www.w3.org/2000/01/rdf-schema#label> "1275 (3)" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/berenson_catalogue_number/1275_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/berenson_catalogue_number/1703b> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/berenson_catalogue_number/1703b> <http://www.w3.org/2000/01/rdf-schema#label> "1703 b" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/berenson_catalogue_number/1703b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nella stessa cornice con BB nn. 760, 1276 e 1276 A."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Per il verso vedi BB nn. 760 verso e 127S\u00B7"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Per il nostro scopo i pi\u00F9 interessanti sono: fol. 1 - Aquila. fol. 11 - Tre fregi sovrapposti: un attacco di cavalieri; trionfo di un generaleromano; uomini, putti e centauri. Evidentemente ispirati, se non copiati, da bassorilievi romani. fol. 22 verso e fol. 23 recto - In alto, lungo fregio (su due pagine) con battaglia di cavalieri nudi; in basso visione frontale e laterale dell'arco di Orange. fol. 24 - L'Arco di Costantino a Roma e quattro medaglioni in rilievo. fol. 24 verso e fol. 25 recto - L'Arco di Traiano a Benevento e quattro processioni di figure toga te (su due pagine). fol. 28 - Tre fregi: re barbari catturati da duci romani; satiri e centauri. fol. 29 verso - Corteo dionisiaco; soldati romani che guadano un fiume. fol. 32 - Giuditta accompagnata dall'ancella...fol. 46 verso e fol. 47 recto - Caccia al cinghiale e caccia al toro (su due pagine)."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/berenson_catalogue_number/2472fol47> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/berenson_catalogue_number/2472fol47> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 47" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/berenson_catalogue_number/2472fol47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "L'Arco di Traiano a Benevento e quattro processioni di figure toga te (su due pagine)."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Sono pagine dallo stesso libro di appunti dei precedenti, e contengono vari studi, alcuni a penna, altri a punta di pennello e acquerello di bistro, di motivi architettonici e decorativi"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as BB 1702 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/berenson_catalogue_number/2472fol28> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/berenson_catalogue_number/2472fol28> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 28" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/berenson_catalogue_number/2472fol28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Piccola figura corrispondente a Obed nella lunetta di \"Salmon-Boaz-Obed\", altra piccola figura corrispondente alla figura a sinistra nella lunetta di Aminabad su scala maggiore, mano destra e braccio sinistro"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Quattro schizzi a semplice contorno di nudi virili seduti su gradini appoggiati a un arco di lunetta"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/berenson_catalogue_number/2472fol1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/berenson_catalogue_number/2472fol1> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 1" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/berenson_catalogue_number/2472fol1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/berenson_catalogue_number/433F> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/berenson_catalogue_number/433F> <http://www.w3.org/2000/01/rdf-schema#label> "433 F" .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/berenson_catalogue_number/433F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Vedi BB nn. 760 recto, 1276, 1276 A e 1276 B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/berenson_catalogue_number/2472fol29> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/berenson_catalogue_number/1702a> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/berenson_catalogue_number/2472fol25> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/berenson_catalogue_number/2472fol25> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 25" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/berenson_catalogue_number/2472fol25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol28-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/berenson_catalogue_number/1276> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/berenson_catalogue_number/1276> <http://www.w3.org/2000/01/rdf-schema#label> "1276" .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/berenson_catalogue_number/1276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/berenson_catalogue_number/1276A> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Vecchio mendicante seminudo con cane, ambedue in profilo a destra"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Cinque schizzi montati insieme dal Vasari: Angelo o Vittoria"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/berenson_catalogue_number/1702a> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/berenson_catalogue_number/1702a> <http://www.w3.org/2000/01/rdf-schema#label> "1702 a" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/berenson_catalogue_number/1702a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/berenson_catalogue_number/2472fol25> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/berenson_catalogue_number/2472fol1> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nella stessa cornice con BB nn. 760, 1276 e 1276 B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/berenson_catalogue_number/2472fol22> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/berenson_catalogue_number/2472fol22> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 22" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/berenson_catalogue_number/2472fol22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Otto piccoli nudi, tre dei quali sono varianti di un uomo seduto frontalmente che legge un libro"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/berenson_catalogue_number/1275_5> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/berenson_catalogue_number/760> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/berenson_catalogue_number/760> <http://www.w3.org/2000/01/rdf-schema#label> "760" .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/berenson_catalogue_number/760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Testa di giovane ricciuto, dalla bocca dolce; braccio destro che tiene un sasso nella mano e mano sinistra"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/berenson_catalogue_number/1702d> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/berenson_catalogue_number/1702d> <http://www.w3.org/2000/01/rdf-schema#label> "1702 d" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/berenson_catalogue_number/1702d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/berenson_catalogue_number/1276> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as BB 1702 and 1703 note 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "...riunite nel 1836 in due pagine...(onde i due numeri di Robinson e di Berenson), ma ridivise e montate separatamente nel 1953, contenenti schizzi di figure simili a quelle sulla volta della Cappella Sistina"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/berenson_catalogue_number/2472fol11> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/berenson_catalogue_number/2472fol11> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 11" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/berenson_catalogue_number/2472fol11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://vocab.getty.edu/ulan/500115575> <http://www.w3.org/2000/01/rdf-schema#label> "Fra Bartolommeo"@en .
+<http://vocab.getty.edu/ulan/500115575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Sono tutti contemporanei agli affreschi della cappella Strozzi in Santa Maria Novella a Firenze (1502). Per un altro disegno su questo lato del foglio vedi BB n. 760 verso."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/berenson_catalogue_number/1275_1> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Tre varianti dell'Eterno nella \"Separazione della luce dalle tenebre\" e cinque figurette di cui due corrispondenti alla donna a destra nella lunetta di \"Jesse-David-Salomone\" iscritto in alto \"M A roma Siluio in roma falconi damagliano / siluio di messere... Damagliano in roma.\""@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/berenson_catalogue_number/1276B> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/berenson_catalogue_number/1276B> <http://www.w3.org/2000/01/rdf-schema#label> "1276 B" .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/berenson_catalogue_number/1276B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/berenson_catalogue_number/1703d> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/berenson_catalogue_number/1703d> <http://www.w3.org/2000/01/rdf-schema#label> "1703 d" .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/berenson_catalogue_number/1703d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Uno scarabocchio e cinque figurette, fra cui il dormiente a sinistra nella lunetta di \"Phares-Esrom-Aram\""@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/berenson_catalogue_number/1275_5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/berenson_catalogue_number/1275_5> <http://www.w3.org/2000/01/rdf-schema#label> "1275 (5)" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_5-Berenson/berenson_catalogue_number/1275_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Vedi BB nn. 760 recto, 1276, 1276 A e 1276 B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol25-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Tre fregi sovrapposti: un attacco di cavalieri; trionfo di un generaleromano; uomini, putti e centauri."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Corteo dionisiaco; soldati romani che guadano un fiume."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702a-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/figure_number/207> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Figure Number"@en .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/figure_number/207> <http://www.w3.org/2000/01/rdf-schema#label> "207" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/figure_number/207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E75_Conceptual_Object_Appellation> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Grande nudo virile semisdraiato verso sinistra come per dormire (a carboncino), simile alla figura a sinistra nella lunetta di \"Phares-Esrom-Aram\""@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/berenson_catalogue_number/2472fol23> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/berenson_catalogue_number/2472fol23> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 23" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/berenson_catalogue_number/2472fol23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500002831> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Taccuino contenente venti fogli con schizzi di figure intere, di teste, di braccia, di piedi e di particolari architettonici"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0599G-1-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Incorniciato dal Vasari con BB nn. 760, 1276A e 1276B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Nell'angolo superiore destro figura simile alla Sibilla Persica; due studi su scala diversa simili alla figura a destra nella lunetta di \"Roboam e Abia\"; altre tre figurette"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Same as BB 1702 1938, in Italian"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/berenson_catalogue_number/2469A> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/berenson_catalogue_number/1275_1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/berenson_catalogue_number/1275_1> <http://www.w3.org/2000/01/rdf-schema#label> "1275 (1)" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_1-Berenson/berenson_catalogue_number/1275_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Sono tutti contemporanei agli affreschi della cappella Strozzi in Santa Maria Novella a Firenze (1502). Per un altro disegno su questo lato del foglio vedi BB n. 760 verso."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/berenson_catalogue_number/1702c> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/berenson_catalogue_number/1702c> <http://www.w3.org/2000/01/rdf-schema#label> "1702 c" .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/berenson_catalogue_number/1702c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://vocab.getty.edu/aat/300010292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/berenson_catalogue_number/2472fol32> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson/berenson_catalogue_number/1703a> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703a-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://vocab.getty.edu/ulan/500002831> <http://www.w3.org/2000/01/rdf-schema#label> "Raffaellino del Garbo"@en .
+<http://vocab.getty.edu/ulan/500002831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Due studi su larga scala per l'uomo addormentato nella lunetta di \"Roboam-Abia\" e per le gambe dell'uomo a destra nella lunetta di \"Salmon-Boaz-Obed\" nell'angolo superiore destro in direzione capovolta figuretta nella posa dell'uomo a sinistra nella lunetta di \"Asa-Josaphat-Joram\""@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702d-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2284Ato2325-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Cinque figurette, di cui una seduta a leggere un libro e un'altra simile alla donna col bambino in grembo nella lunetta di \"Ezechias-Manasse-Aman\""@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Mendicante seminudo appoggiato ad un'asta"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Caccia al cinghiale e caccia al toro (su due pagine)."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol47-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/berenson_catalogue_number/2472fol24> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/berenson_catalogue_number/2472fol24> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 24" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol24-Berenson/berenson_catalogue_number/2472fol24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol11-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "San Rocco, fra Santa Caterina e Sant'Antonio Abate."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Grande nudo seduto che si sporge verso destra con un libro nelle mani, simile alla figura sinistra nella lunetta di \"Abramo-Isacco-Giacobbe-Giuda\", ora distrutta"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703d-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/berenson_catalogue_number/2472fol32> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/berenson_catalogue_number/2472fol32> <http://www.w3.org/2000/01/rdf-schema#label> "2472 fol. 32" .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/berenson_catalogue_number/2472fol32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Per gli altri disegni montati insieme a questo dal Vasari sul recto del foglio, vedi BB nn. 1276, 1276 A, 1276 B."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol29-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson/berenson_catalogue_number/2472fol23> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol23-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Aquila"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/berenson_catalogue_number/1702b> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://vocab.getty.edu/aat/300386003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/berenson_catalogue_number/1275_3> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Studio per l'uomo a sinistra nella lunetta distrutta di \"Phares-Esrom-Aram\" (a carboncino); quattro figurette forse per il Giona e tre deboli schizzi nell'angolo superiore sinistro forse per l'Eterno che separa la luce dalle tenebre (a penna)."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500023184> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/berenson_catalogue_number/1276B> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://vocab.getty.edu/ulan/500010654> <http://www.w3.org/2000/01/rdf-schema#label> "Michelangelo"@en .
+<http://vocab.getty.edu/ulan/500010654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Sono tutti contemporanei agli affreschi della cappella Strozzi in Santa Maria Novella a Firenze (1502). Per un altro disegno su questo lato del foglio vedi BB n. 760 verso."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_3-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Taccuino di Giuliano da San Gallo formato da 51 fogli, tolti a quaderni diversi, con date che vanno dal 23 Maggio 1500 al 24 Luglio 1513 Sono in massima parte studi architettonici, macchine belliche, ornati, grottesche e copie da antichi monumenti romani"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703b-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Caccia al cinghiale e caccia al toro (su due pagine)."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://vocab.getty.edu/ulan/500018029> <http://www.w3.org/2000/01/rdf-schema#label> "Filippino Lippi"@en .
+<http://vocab.getty.edu/ulan/500018029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Gruppo di guerrieri romani che discutono presso una tenda"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702c-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/0000760-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/berenson_catalogue_number/2472> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/berenson_catalogue_number/2472> <http://www.w3.org/2000/01/rdf-schema#label> "2472" .
+<http://data.itatti.harvard.edu/florentinedrawings/0002472-Berenson/berenson_catalogue_number/2472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/production> <http://data.itatti.harvard.edu/florentinedrawings/ontologies/carried_out_by_school_of> <http://vocab.getty.edu/ulan/500010654> .
+<http://data.itatti.harvard.edu/florentinedrawings/1702-1703-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/verso/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Donna in profilo a destra che si china a sollevare dei putti, simile alla figura sinistra nella lunetta di \"Naasson\""@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/verso/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/berenson_catalogue_number/2472fol22> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Giuditta accompagnata dall'ancella."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol32-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto/title/3> <http://www.w3.org/2000/01/rdf-schema#label> "Giovane nudo virile che volge la testa a destra, protende la mano destra e si tocca la coscia con la sinistra come se fosse un San Rocco"@it .
+<http://data.itatti.harvard.edu/florentinedrawings/001276B-Berenson/recto/title/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/berenson_catalogue_number/1275_2> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson/berenson_catalogue_number/2472fol46> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol46-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/0001276-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://vocab.getty.edu/aat/300078817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol1-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115575> .
+<http://data.itatti.harvard.edu/florentinedrawings/000433F-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/002469A-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500018029> .
+<http://data.itatti.harvard.edu/florentinedrawings/001276A-Berenson/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto/comment/3> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Sono tutti contemporanei agli affreschi della cappella Strozzi in Santa Maria Novella a Firenze (1502). Per un altro disegno su questo lato del foglio vedi BB n. 760 verso."@it .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_2-Berenson/recto/comment/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/verso/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/verso> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300010292> .
+<http://data.itatti.harvard.edu/florentinedrawings/2472fol22-Berenson/verso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/production> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/verso> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/recto> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson/berenson_catalogue_number/1703c> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300386003> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973> .
+<http://data.itatti.harvard.edu/florentinedrawings/001703c-Berenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/berenson_catalogue_number/1275_4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> "Berenson Catalogue Number" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/berenson_catalogue_number/1275_4> <http://www.w3.org/2000/01/rdf-schema#label> "1275 (4)" .
+<http://data.itatti.harvard.edu/florentinedrawings/01275_4-Berenson/berenson_catalogue_number/1275_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by> <http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto/comment/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto/title/3> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300078817> .
+<http://data.itatti.harvard.edu/florentinedrawings/001702b-Berenson/recto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
